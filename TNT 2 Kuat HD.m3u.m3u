@@ -1,0 +1,429 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK| ANIMAL PLANET FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30582.png" group-title="524" tvg-chno="15861",UK| ANIMAL PLANET FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30582&extension=ts&play_token=iyk2029Sw4
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="UK| ANIMAL PLNT +1" tvg-logo="http://51.158.145.100/picons/logos/UK/164033.png" group-title="524" tvg-chno="15862",UK| ANIMAL PLNT +1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164033&extension=ts&play_token=3Nq5m2z2Pd
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK| SKY DOCUMENTARIES FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/164072.png" group-title="524" tvg-chno="15863",UK| SKY DOCUMENTARIES FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164072&extension=ts&play_token=vJksc9iLkQ
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK| SKY DOCUMENTARIES HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1074676.png" group-title="524" tvg-chno="15864",UK| SKY DOCUMENTARIES HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1074676&extension=ts&play_token=sI8SBnuaqV
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK| SKY DOCUMENTARIES SD" tvg-logo="http://51.158.145.100/picons/logos/UK/1074677.png" group-title="524" tvg-chno="15865",UK| SKY DOCUMENTARIES SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1074677&extension=ts&play_token=KvS9dIZac0
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK| DISCOVERY FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30549.png" group-title="524" tvg-chno="15866",UK| DISCOVERY FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30549&extension=ts&play_token=BGRQ6mwXdC
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK| DISCOVERY HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1074678.png" group-title="524" tvg-chno="15867",UK| DISCOVERY HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1074678&extension=ts&play_token=v8Ga4S4ZIA
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK| DISCOVERY SD" tvg-logo="http://51.158.145.100/picons/logos/UK/1074679.png" group-title="524" tvg-chno="15868",UK| DISCOVERY SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1074679&extension=ts&play_token=vZ9oe1x7Hn
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK| DISCOVERY +1" tvg-logo="http://51.158.145.100/picons/logos/UK/164044.png" group-title="524" tvg-chno="15869",UK| DISCOVERY +1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164044&extension=ts&play_token=nzbKT9i8N0
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK| DISCOVERY TURBO" tvg-logo="http://51.158.145.100/picons/logos/UK/45279.png" group-title="524" tvg-chno="15870",UK| DISCOVERY TURBO
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45279&extension=ts&play_token=ZiLeUy7aSd
+#EXTINF:-1 tvg-id="uk.Disc.Turbo" tvg-name="UK| DISCOVERY TURBO +1" tvg-logo="http://51.158.145.100/picons/logos/UK/1014338.png" group-title="524" tvg-chno="15871",UK| DISCOVERY TURBO +1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014338&extension=ts&play_token=C3xfgGkdt3
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK| DISCOVERY SCIENCE" tvg-logo="http://51.158.145.100/picons/logos/UK/45281.png" group-title="524" tvg-chno="15872",UK| DISCOVERY SCIENCE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45281&extension=ts&play_token=dkRLpebbVL
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK| DISCOVERY HISTORY" tvg-logo="http://51.158.145.100/picons/logos/UK/45283.png" group-title="524" tvg-chno="15873",UK| DISCOVERY HISTORY
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45283&extension=ts&play_token=gnoiAl5LxA
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="UK| HISTORY FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30534.png" group-title="524" tvg-chno="15874",UK| HISTORY FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30534&extension=ts&play_token=cPYtWxmPwg
+#EXTINF:-1 tvg-id="History2.uk" tvg-name="UK| HISTORY 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30535.png" group-title="524" tvg-chno="15875",UK| HISTORY 2 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30535&extension=ts&play_token=veopBAEIZJ
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK| NAT GEO FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30526.png" group-title="524" tvg-chno="15876",UK| NAT GEO FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30526&extension=ts&play_token=mzrP380yxU
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK| NAT GEO HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1057011.png" group-title="524" tvg-chno="15877",UK| NAT GEO HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1057011&extension=ts&play_token=dPRGsv1uyN
+#EXTINF:-1 tvg-id="NatGeo.uk" tvg-name="UK| NAT GEO SD" tvg-logo="http://51.158.145.100/picons/logos/UK/1057012.png" group-title="524" tvg-chno="15878",UK| NAT GEO SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1057012&extension=ts&play_token=0gAVzMZdDS
+#EXTINF:-1 tvg-name="UK| NAT GEO +1" tvg-logo="http://51.158.145.100/picons/logos/UK/1014334.png" group-title="524" tvg-chno="15879",UK| NAT GEO +1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014334&extension=ts&play_token=EKbDOuX7t6
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK| NAT GEO WILD FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30525.png" group-title="524" tvg-chno="15880",UK| NAT GEO WILD FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30525&extension=ts&play_token=2MLmKz0rLr
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK| NAT GEO WILD HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1057013.png" group-title="524" tvg-chno="15881",UK| NAT GEO WILD HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1057013&extension=ts&play_token=Smt94LM9hY
+#EXTINF:-1 tvg-id="NatGeoWild.uk" tvg-name="UK| NAT GEO WILD SD" tvg-logo="http://51.158.145.100/picons/logos/UK/1057014.png" group-title="524" tvg-chno="15882",UK| NAT GEO WILD SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1057014&extension=ts&play_token=RxwN6s8fi6
+#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="UK| DMAX" tvg-logo="http://51.158.145.100/picons/logos/UK/164004.png" group-title="524" tvg-chno="15883",UK| DMAX
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164004&extension=ts&play_token=88uSgbNqb9
+#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="UK| DMAX +1" tvg-logo="http://51.158.145.100/picons/logos/UK/164042.png" group-title="524" tvg-chno="15884",UK| DMAX +1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164042&extension=ts&play_token=tolt8qRQZv
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK| SKY CRIME FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/164073.png" group-title="524" tvg-chno="15885",UK| SKY CRIME FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164073&extension=ts&play_token=0tjKElLlQu
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK| SKY NATURE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/164071.png" group-title="524" tvg-chno="15886",UK| SKY NATURE FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164071&extension=ts&play_token=z76IdNKoNe
+#EXTINF:-1 tvg-id="EarthX.uk" tvg-name="UK| EARTHX TV" tvg-logo="http://51.158.145.100/picons/logos/UK/1283923.png" group-title="524" tvg-chno="15887",UK| EARTHX TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1283923&extension=ts&play_token=XseFLJAbo8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="UK| INVESTIGATION DISCOVERY" tvg-logo="http://51.158.145.100/picons/logos/UK/45270.png" group-title="524" tvg-chno="15888",UK| INVESTIGATION DISCOVERY
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45270&extension=ts&play_token=6IfHVxtOqz
+#EXTINF:-1 tvg-id="CrimeAndInvestigationNetwork.uk" tvg-name="UK| CRIME INVESTIGATION FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/30551.png" group-title="524" tvg-chno="15889",UK| CRIME INVESTIGATION FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30551&extension=ts&play_token=DibvlbGtAA
+#EXTINF:-1 tvg-name="UK| CRIME INVESTIGATION +1" tvg-logo="http://51.158.145.100/picons/logos/UK/1014333.png" group-title="524" tvg-chno="15890",UK| CRIME INVESTIGATION +1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014333&extension=ts&play_token=8sD7Fr6QJr
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="UK| ID +1" tvg-logo="http://51.158.145.100/picons/logos/UK/164051.png" group-title="524" tvg-chno="15891",UK| ID +1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164051&extension=ts&play_token=8BoZuNuIVc
+#EXTINF:-1 tvg-name="UK| SKY HISTORY/H2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014336.png" group-title="524" tvg-chno="15893",UK| SKY HISTORY/H2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014336&extension=ts&play_token=Gcuhe8dAjS
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="UK| SKY HISTORY HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1014335.png" group-title="524" tvg-chno="15894",UK| SKY HISTORY HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014335&extension=ts&play_token=nDbJ2jAIDu
+#EXTINF:-1 tvg-id="5Select.uk" tvg-name="UK| 5 SELECT" tvg-logo="http://51.158.145.100/picons/logos/UK/164005.png" group-title="524" tvg-chno="15895",UK| 5 SELECT
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164005&extension=ts&play_token=FNunb70f6w
+#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-name="UK| TRAVEL CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/UK/79718.png" group-title="524" tvg-chno="15896",UK| TRAVEL CHANNEL
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79718&extension=ts&play_token=71hPwZ7atz
+#EXTINF:-1 tvg-name="##### SKY SPORTS HD #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="401" tvg-chno="16550",##### SKY SPORTS HD #####
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=230682&extension=ts&play_token=6zEDJKdNz8
+#EXTINF:-1 tvg-name="UK| SKY SPORTS + HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png" group-title="401" tvg-chno="16551",UK| SKY SPORTS + HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83455&extension=ts&play_token=yIiUEmdZSL
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK|SKY SPORTS ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="401" tvg-chno="16552",UK|SKY SPORTS ACTION HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83456&extension=ts&play_token=jNbSFMjBZI
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="401" tvg-chno="16553",UK| SKY SPORTS CRICKET HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83454&extension=ts&play_token=IVGHEABF1y
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png" group-title="401" tvg-chno="16554",UK| SKY SPORTS F1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83453&extension=ts&play_token=MXDosU3XNH
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png" group-title="401" tvg-chno="16555",UK| SKY SPORTS F1 UHD/4K
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1641637&extension=ts&play_token=6nsPBx95OD
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="401" tvg-chno="16556",UK| SKY SPORTS FOOTBALL HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83452&extension=ts&play_token=MFcSfbMQF5
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="401" tvg-chno="16557",UK| SKY SPORTS GOLF HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83451&extension=ts&play_token=PcfiR0TfE6
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" group-title="401" tvg-chno="16558",UK| SKY SPORTS MAIN EVENT UHD/4K
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1641636&extension=ts&play_token=gJxe1xFaBu
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="401" tvg-chno="16559",UK| SKY SPORTS MAIN EVENTS HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83450&extension=ts&play_token=hj6pBIpDVa
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD(BK)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" group-title="401" tvg-chno="16560",UK| SKY SPORTS MAIN EVENTS HD(BK)
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1448189&extension=ts&play_token=cLUITfsAO6
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="401" tvg-chno="16561",UK| SKY SPORTS MIX HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83449&extension=ts&play_token=aDpCwMze7E
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="401" tvg-chno="16562",UK| SKY SPORTS NEWS HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83448&extension=ts&play_token=hzAfpFOZlN
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPL.png" group-title="401" tvg-chno="16563",UK| SKY SPORTS PL HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83447&extension=ts&play_token=wUPhitSKqy
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="401" tvg-chno="16564",UK| SKY SPORTS RACING HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=83446&extension=ts&play_token=dZGzUNAjCs
+#EXTINF:-1 tvg-id="Sky Sports Tennis HD.uk" tvg-name="UK| SKY SPORTS TENNIS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="401" tvg-chno="16565",UK| SKY SPORTS TENNIS HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1454231&extension=ts&play_token=7DpkVwuaE1
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://103.176.90.92/images/79486.png" group-title="401" tvg-chno="16566",UK| TNT SPORTS 1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79486&extension=ts&play_token=FRT4Q2slzl
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK| TNT SPORTS 1 HD ◉" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="401" tvg-chno="16567",UK| TNT SPORTS 1 HD ◉
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1261564&extension=ts&play_token=94w09xoW4D
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 HD" tvg-logo="http://103.176.90.92/images/79485.png" group-title="401" tvg-chno="16568",UK| TNT SPORTS 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79485&extension=ts&play_token=1Veh5DTtyC
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 HD" tvg-logo="http://103.176.90.92/images/79484.png" group-title="401" tvg-chno="16569",UK| TNT SPORTS 3 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79484&extension=ts&play_token=cpaAn8IHiX
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="401" tvg-chno="16570",UK| TNT SPORTS 4 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1002857&extension=ts&play_token=Gqm0VWZUov
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="401" tvg-chno="16571",UK| TNT SPORTS 5 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1004549&extension=ts&play_token=lFcjUCsNqf
+#EXTINF:-1 tvg-name="UK| BT BOX OFFICE HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BTBOXOFFICE.png" group-title="401" tvg-chno="16572",UK| BT BOX OFFICE HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1019934&extension=ts&play_token=2ryUh3YRno
+#EXTINF:-1 tvg-name="UK| DAZN 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png" group-title="401" tvg-chno="16573",UK| DAZN 1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1221178&extension=ts&play_token=4z3Dmak8BW
+#EXTINF:-1 tvg-name="UK| MANCHESTER UNITED HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MANCHESTERUNITED.png" group-title="401" tvg-chno="16574",UK| MANCHESTER UNITED HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=725954&extension=ts&play_token=7wOKQrlMuv
+#EXTINF:-1 tvg-name="UK| CHELSEA TV HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CHELSEA.png" group-title="401" tvg-chno="16575",UK| CHELSEA TV HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45327&extension=ts&play_token=NxOgxmg0Zw
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK| LFC TV FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="401" tvg-chno="16576",UK| LFC TV FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=910647&extension=ts&play_token=nWeQD4xCPP
+#EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK| LFC TV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="401" tvg-chno="16577",UK| LFC TV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45268&extension=ts&play_token=hbmjS102UO
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK| MUTV FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="401" tvg-chno="16578",UK| MUTV FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45324&extension=ts&play_token=Y4RybEKwSI
+#EXTINF:-1 tvg-id="uk.Eurosport 1" tvg-name="UK| EUROSPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT1.png" group-title="401" tvg-chno="16579",UK| EUROSPORT 1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=547746&extension=ts&play_token=TfUV9FShv1
+#EXTINF:-1 tvg-id="uk.Eurosport 2" tvg-name="UK| EUROSPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT2.png" group-title="401" tvg-chno="16580",UK| EUROSPORT 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=547747&extension=ts&play_token=YVHWgN5DYO
+#EXTINF:-1 tvg-id="LaLiga.uk" tvg-name="UK| PREMIER SPORT LALIGA TV HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTLALIGA.png" group-title="401" tvg-chno="16581",UK| PREMIER SPORT LALIGA TV HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=163610&extension=ts&play_token=NEEyPiLnpe
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK| PREMIER SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="401" tvg-chno="16582",UK| PREMIER SPORTS 1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45235&extension=ts&play_token=4H9ZM68XYl
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| PREMIER SPORT 2 HD" tvg-logo="http://103.176.90.92/images/163608.png" group-title="401" tvg-chno="16583",UK| PREMIER SPORT 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=163608&extension=ts&play_token=AJgL6gOg2v
+#EXTINF:-1 tvg-name="##### SKY SPORTS FHD #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="401" tvg-chno="16584",##### SKY SPORTS FHD #####
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=230681&extension=ts&play_token=1M3lfdhmG0
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS + FHD" tvg-logo="http://103.176.90.92/images/30500.png" group-title="401" tvg-chno="16585",UK| SKY SPORTS + FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30500&extension=ts&play_token=4un4oameIa
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION FHD" tvg-logo="http://103.176.90.92/images/30501.png" group-title="401" tvg-chno="16586",UK| SKY SPORTS ACTION FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30501&extension=ts&play_token=yijNT6j9Jf
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET FHD" tvg-logo="http://103.176.90.92/images/30502.png" group-title="401" tvg-chno="16587",UK| SKY SPORTS CRICKET FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30502&extension=ts&play_token=YFBFBQjSDO
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 FHD" tvg-logo="http://103.176.90.92/images/30499.png" group-title="401" tvg-chno="16588",UK| SKY SPORTS F1 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30499&extension=ts&play_token=7At3uHBKk5
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL FHD" tvg-logo="http://103.176.90.92/images/30498.png" group-title="401" tvg-chno="16589",UK| SKY SPORTS FOOTBALL FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30498&extension=ts&play_token=2iMALRHIax
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF FHD" tvg-logo="http://103.176.90.92/images/30497.png" group-title="401" tvg-chno="16590",UK| SKY SPORTS GOLF FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30497&extension=ts&play_token=9iYzFkE4pI
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="http://103.176.90.92/images/30496.png" group-title="401" tvg-chno="16591",UK| SKY SPORTS MAIN EVENT FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30496&extension=ts&play_token=fzytiBvdwE
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX FHD" tvg-logo="http://103.176.90.92/images/30495.png" group-title="401" tvg-chno="16592",UK| SKY SPORTS MIX FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30495&extension=ts&play_token=hObnw6JXAB
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS FHD" tvg-logo="http://103.176.90.92/images/30494.png" group-title="401" tvg-chno="16593",UK| SKY SPORTS NEWS FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30494&extension=ts&play_token=Oe2vKjgFSg
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL FHD" tvg-logo="http://103.176.90.92/images/30493.png" group-title="401" tvg-chno="16594",UK| SKY SPORTS PL FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30493&extension=ts&play_token=0uB13ptz0g
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING FHD" tvg-logo="http://103.176.90.92/images/77373.png" group-title="401" tvg-chno="16595",UK| SKY SPORTS RACING FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=77373&extension=ts&play_token=PYfkJm4sL6
+#EXTINF:-1 tvg-name="UK| SKY SPORTS TENNIS FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="401" tvg-chno="16596",UK| SKY SPORTS TENNIS FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1454232&extension=ts&play_token=I87PJ4eIts
+#EXTINF:-1 tvg-id="BTSportUltimate.uk" tvg-name="UK| TNT ULTIMATE 4K+ [LIVE-EVENT]" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTULTIMATE.png" group-title="401" tvg-chno="16597",UK| TNT ULTIMATE 4K+ [LIVE-EVENT]
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1379047&extension=ts&play_token=4iBPsRywJu
+#EXTINF:-1 tvg-id="TNT.Sport.BoxOffice.HD.uk" tvg-name="UK| TNT BOX OFFICE FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BTBOXOFFICE.png" group-title="401" tvg-chno="16598",UK| TNT BOX OFFICE FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1019933&extension=ts&play_token=agX6M6oQMY
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN FHD" tvg-logo="http://103.176.90.92/images/30564.png" group-title="401" tvg-chno="16599",UK| TNT SPORTS ESPN FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30564&extension=ts&play_token=I6qk8BgDyt
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 FHD" tvg-logo="http://103.176.90.92/images/30567.png" group-title="401" tvg-chno="16600",UK| TNT SPORTS 1 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30567&extension=ts&play_token=Zc2R9bpITF
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 FHD" tvg-logo="http://103.176.90.92/images/30566.png" group-title="401" tvg-chno="16601",UK| TNT SPORTS 2 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30566&extension=ts&play_token=Qx8WPSVNYq
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 FHD" tvg-logo="http://103.176.90.92/images/30565.png" group-title="401" tvg-chno="16602",UK| TNT SPORTS 3 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30565&extension=ts&play_token=bx5dsuP0zh
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="401" tvg-chno="16603",UK| TNT SPORTS 4 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1019935&extension=ts&play_token=UkWYwzKLlk
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="401" tvg-chno="16604",UK| TNT SPORTS 5 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1004548&extension=ts&play_token=GR6Tcnh3Hm
+#EXTINF:-1 tvg-name="##### SKY SPORTS SD #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="401" tvg-chno="16605",##### SKY SPORTS SD #####
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=230683&extension=ts&play_token=CpHkoGzE9P
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS +" tvg-logo="http://103.176.90.92/images/79481.png" group-title="401" tvg-chno="16606",UK| SKY SPORTS +
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79481&extension=ts&play_token=qs9mEMf3qm
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION" tvg-logo="http://103.176.90.92/images/79482.png" group-title="401" tvg-chno="16607",UK| SKY SPORTS ACTION
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79482&extension=ts&play_token=fjWmd1q73a
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET" tvg-logo="http://103.176.90.92/images/79480.png" group-title="401" tvg-chno="16608",UK| SKY SPORTS CRICKET
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79480&extension=ts&play_token=eW4cQ5Dgm0
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1" tvg-logo="http://103.176.90.92/images/79479.png" group-title="401" tvg-chno="16609",UK| SKY SPORTS F1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79479&extension=ts&play_token=ao3VfU5g8n
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL" tvg-logo="http://103.176.90.92/images/79478.png" group-title="401" tvg-chno="16610",UK| SKY SPORTS FOOTBALL
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79478&extension=ts&play_token=ccnMUYJGj6
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF" tvg-logo="http://103.176.90.92/images/79477.png" group-title="401" tvg-chno="16611",UK| SKY SPORTS GOLF
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79477&extension=ts&play_token=PVW5iCN2dY
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT" tvg-logo="http://103.176.90.92/images/79476.png" group-title="401" tvg-chno="16612",UK| SKY SPORTS MAIN EVENT
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79476&extension=ts&play_token=vRQNB2sjTN
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX" tvg-logo="http://103.176.90.92/images/79475.png" group-title="401" tvg-chno="16613",UK| SKY SPORTS MIX
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79475&extension=ts&play_token=qB4OVcVbyw
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS" tvg-logo="http://103.176.90.92/images/79474.png" group-title="401" tvg-chno="16614",UK| SKY SPORTS NEWS
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79474&extension=ts&play_token=jGi6do3m6N
+#EXTINF:-1 tvg-id="uk.Sky Sports Premier League" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://103.176.90.92/images/79473.png" group-title="401" tvg-chno="16615",UK| SKY SPORTS PREMIER LEAGUE FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79473&extension=ts&play_token=opvSGKXSUt
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING" tvg-logo="http://103.176.90.92/images/79472.png" group-title="401" tvg-chno="16616",UK| SKY SPORTS RACING
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=79472&extension=ts&play_token=Bf767j9nlr
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="401" tvg-chno="16617",UK| TNT SPORTS 1 SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1047260&extension=ts&play_token=c05T0ehzt1
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="401" tvg-chno="16618",UK| TNT SPORTS 2 SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1047261&extension=ts&play_token=8tEo84h2cX
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="401" tvg-chno="16619",UK| TNT SPORTS 3 SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1047262&extension=ts&play_token=sC5TcHW60E
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="401" tvg-chno="16620",UK| TNT SPORTS 4 SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1047263&extension=ts&play_token=RAAruoeigw
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="401" tvg-chno="16621",UK| TNT SPORTS 5
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1004550&extension=ts&play_token=z1nxqvbCsQ
+#EXTINF:-1 tvg-id="uk.Eurosport 1" tvg-name="UK| EUROSPORT 1 FHD" tvg-logo="http://103.176.90.92/images/30541.png" group-title="401" tvg-chno="16622",UK| EUROSPORT 1 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30541&extension=ts&play_token=rQTemMJ4U2
+#EXTINF:-1 tvg-id="uk.Eurosport 2 HD" tvg-name="UK| EUROSPORT 2 FHD" tvg-logo="http://103.176.90.92/images/30540.png" group-title="401" tvg-chno="16623",UK| EUROSPORT 2 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30540&extension=ts&play_token=XjS65yJ9BU
+#EXTINF:-1 tvg-name="UK| VIAPLAY XTRA HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="401" tvg-chno="16624",UK| VIAPLAY XTRA HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014260&extension=ts&play_token=73orgX3mOF
+#EXTINF:-1 tvg-name="UK| PREMIER SPORT LALIGA TV FHD" tvg-logo="http://103.176.90.92/images/163611.png" group-title="401" tvg-chno="16625",UK| PREMIER SPORT LALIGA TV FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=163611&extension=ts&play_token=MMrnuD0VcG
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| PREMIER SPORT 1 FHD" tvg-logo="http://103.176.90.92/images/163607.png" group-title="401" tvg-chno="16626",UK| PREMIER SPORT 1 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=163607&extension=ts&play_token=p4GVDBYb3C
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| PREMIER SPORTS 2 FHD" tvg-logo="http://103.176.90.92/images/45251.png" group-title="401" tvg-chno="16627",UK| PREMIER SPORTS 2 FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=45251&extension=ts&play_token=fSL3e3jzT6
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK FHD" tvg-logo="http://103.176.90.92/images/30523.png" group-title="401" tvg-chno="16628",UK| RACING UK FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=30523&extension=ts&play_token=l3owfEaruW
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK ◉" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" group-title="401" tvg-chno="16629",UK| RACING UK ◉
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1069214&extension=ts&play_token=YRoozK3Wjm
+#EXTINF:-1 tvg-name="UK| WWE LIVE HD" tvg-logo="http://103.176.90.92/images/164032.png" group-title="401" tvg-chno="16630",UK| WWE LIVE HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=164032&extension=ts&play_token=MU7c1ecVho
+#EXTINF:-1 tvg-name="UK| PDC DARTS TV 2 (Event Only)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PDCDARTS.png" group-title="401" tvg-chno="16631",UK| PDC DARTS TV 2 (Event Only)
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014239&extension=ts&play_token=walrqR9NjI
+#EXTINF:-1 tvg-name="UK| PDC DARTS TV 1 (Event Only)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PDCDARTS.png" group-title="401" tvg-chno="16632",UK| PDC DARTS TV 1 (Event Only)
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014240&extension=ts&play_token=5LIX9Jy0Bk
+#EXTINF:-1 tvg-name="UK| EDGE SPORT FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EDGESPORT.png" group-title="401" tvg-chno="16633",UK| EDGE SPORT FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014266&extension=ts&play_token=hzRQ3IrRck
+#EXTINF:-1 tvg-name="UK| UFC TV (Events2)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UFC.png" group-title="401" tvg-chno="16634",UK| UFC TV (Events2)
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1014267&extension=ts&play_token=MviU71yZhq
+#EXTINF:-1 tvg-name="UK| UFC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UFC.png" group-title="401" tvg-chno="16635",UK| UFC HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=825538&extension=ts&play_token=tSYtuDbqYy
+#EXTINF:-1 tvg-name="##### BEIN SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="17101",##### BEIN SPORTS #####
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238271&extension=ts&play_token=Kvb3bVp3vk
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="UK| BEIN SPORT 1 EN FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="17102",UK| BEIN SPORT 1 EN FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=483921&extension=ts&play_token=3YdUQXiGhK
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="UK| BEIN SPORT 1 EN HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="17103",UK| BEIN SPORT 1 EN HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=49226&extension=ts&play_token=6TWDVWd6Vf
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="UK| BEIN SPORT 2 EN FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="17104",UK| BEIN SPORT 2 EN FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=483920&extension=ts&play_token=tmS3OWbqlR
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="UK| BEIN SPORT 2 EN HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="17105",UK| BEIN SPORT 2 EN HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=49225&extension=ts&play_token=yA2LgP8cEx
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="UK| BEIN SPORTS 1 EN SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="17106",UK| BEIN SPORTS 1 EN SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=735946&extension=ts&play_token=kj1tnyfXlX
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="UK| BEIN SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="17107",UK| BEIN SPORTS 1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238265&extension=ts&play_token=yMJmFtZT5H
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="UK| BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="17108",UK| BEIN SPORTS 1 PREMIUM HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238261&extension=ts&play_token=Kf89HC4EkP
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 2 EN SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="17109",UK| BEIN SPORTS 2 EN SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=735945&extension=ts&play_token=tqCjMa8COY
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="UK| BEIN SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="17110",UK| BEIN SPORTS 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238264&extension=ts&play_token=992Sh9e4l3
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="UK| BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="17111",UK| BEIN SPORTS 2 PREMIUM HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238262&extension=ts&play_token=LztiMWaUrJ
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="UK| BEIN SPORTS 3 EN SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="17112",UK| BEIN SPORTS 3 EN SD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=735944&extension=ts&play_token=Axy6JQOfKP
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="UK| BEIN SPORTS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="17113",UK| BEIN SPORTS 3 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238266&extension=ts&play_token=qmT03MIMfl
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="17114",UK| BEIN SPORTS 3 PREMIUM HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238263&extension=ts&play_token=nw6lslWtvJ
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="UK| BEIN SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS4.png" group-title="1309" tvg-chno="17115",UK| BEIN SPORTS 4 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238267&extension=ts&play_token=oMQcHjtTpF
+#EXTINF:-1 tvg-id="beINSports8En.qa" tvg-name="UK| BEIN SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png" group-title="1309" tvg-chno="17116",UK| BEIN SPORTS 5 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238268&extension=ts&play_token=RAGZrEb9hH
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="UK| BEIN SPORTS 6 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png" group-title="1309" tvg-chno="17117",UK| BEIN SPORTS 6 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238269&extension=ts&play_token=bIHQ5xfCfS
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="UK| BEIN SPORTS 7 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png" group-title="1309" tvg-chno="17118",UK| BEIN SPORTS 7 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=238270&extension=ts&play_token=G3IlGs2zRr
+#EXTINF:-1 tvg-name="UK| BEIN SPORTS AU 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="17119",UK| BEIN SPORTS AU 1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1348093&extension=ts&play_token=R65p47prEK
+#EXTINF:-1 tvg-name="UK| BEIN SPORTS AU 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="17120",UK| BEIN SPORTS AU 2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1348102&extension=ts&play_token=swyb4xQMTt
+#EXTINF:-1 tvg-name="UK| BEIN SPORTS AU 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="17121",UK| BEIN SPORTS AU 3
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1348103&extension=ts&play_token=184VwFs4rN
+#EXTINF:-1 tvg-name="##### BEIN SPORTS ASIA #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="17122",##### BEIN SPORTS ASIA #####
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=923433&extension=ts&play_token=9lzJ0d1eqV
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="UK| BEIN SPORTS ASIA 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="17123",UK| BEIN SPORTS ASIA 1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=923432&extension=ts&play_token=d9jlN26WcM
+#EXTINF:-1 tvg-id="beIN_SPORTS2_ENGLISH" tvg-name="UK| UK| BEIN SPORTS ASIA 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="17124",UK| UK| BEIN SPORTS ASIA 2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=923431&extension=ts&play_token=ItNlxMXTVS
+#EXTINF:-1 tvg-id="beIN_SPORTS3_ENGLISH" tvg-name="UK| UK| BEIN SPORTS ASIA 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="17125",UK| UK| BEIN SPORTS ASIA 3
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=923430&extension=ts&play_token=pTgGjjKPjP
+#EXTINF:-1 tvg-name="##### SUPER SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="17126",##### SUPER SPORTS #####
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239075&extension=ts&play_token=LKH9RIdaWk
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17127",UK| SUPERSPORTS ACTION HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=425668&extension=ts&play_token=ZerymgD0N2
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS BLITZ HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17128",UK| SUPERSPORTS BLITZ HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=425310&extension=ts&play_token=FWVYakncbP
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS CRICKET HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17129",UK| SUPERSPORTS CRICKET HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239087&extension=ts&play_token=mG9tEQNcWq
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS EVENTS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17130",UK| SUPERSPORTS EVENTS HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=425312&extension=ts&play_token=Sybs3UdUT7
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS FOOTBALL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17131",UK| SUPERSPORTS FOOTBALL HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239083&extension=ts&play_token=xDz34XE9Qc
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS GOLF HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17132",UK| SUPERSPORTS GOLF HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=425667&extension=ts&play_token=NPgLVpXu8H
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS GRANDSTAND HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17133",UK| SUPERSPORTS GRANDSTAND HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239079&extension=ts&play_token=61UGBsmPD0
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS LIGA HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17134",UK| SUPERSPORTS LIGA HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239076&extension=ts&play_token=ypGayl9e8g
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS MAXIMO HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17135",UK| SUPERSPORTS MAXIMO HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=425666&extension=ts&play_token=h6gMbjWFKY
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS MOTORSPORT HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17136",UK| SUPERSPORTS MOTORSPORT HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239082&extension=ts&play_token=tdJF6UU4Wl
+#EXTINF:-1 tvg-name="UK| SUPER SPORTS PLAY 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17137",UK| SUPER SPORTS PLAY 1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=425313&extension=ts&play_token=GNAkYbOTFt
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS PLAY 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17138",UK| SUPERSPORTS PLAY 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=425311&extension=ts&play_token=QPqEFeYEWw
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS PL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17139",UK| SUPERSPORTS PL HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239078&extension=ts&play_token=kjFFWCJS0E
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS PSL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17140",UK| SUPERSPORTS PSL HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239077&extension=ts&play_token=wg274YXTa6
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS RUGBY HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17141",UK| SUPERSPORTS RUGBY HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239086&extension=ts&play_token=nBlOe9VxIN
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS TENNIS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17142",UK| SUPERSPORTS TENNIS HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=425314&extension=ts&play_token=44xld7H5rm
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS VARIETY 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17143",UK| SUPERSPORTS VARIETY 1 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239081&extension=ts&play_token=RFcMsTiSvq
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS VARIETY 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17144",UK| SUPERSPORTS VARIETY 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239080&extension=ts&play_token=6ipu3VJtxV
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS VARIETY 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17145",UK| SUPERSPORTS VARIETY 3 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239085&extension=ts&play_token=vUibFLJEl6
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS VARIETY 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="17146",UK| SUPERSPORTS VARIETY 4 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=239084&extension=ts&play_token=h8gdLDO4fz
+#EXTINF:-1 tvg-name="##### UK ASTRO SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="17147",##### UK ASTRO SPORTS #####
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=918987&extension=ts&play_token=kUlJKsYhf3
+#EXTINF:-1 tvg-name="UK| ASTRO Football" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="17148",UK| ASTRO Football
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=918983&extension=ts&play_token=sOzTowWEb6
+#EXTINF:-1 tvg-name="UK| ASTRO Football" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="17149",UK| ASTRO Football
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1016545&extension=ts&play_token=1SjRpPty6K
+#EXTINF:-1 tvg-name="UK| ASTRO Grandstand" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="17150",UK| ASTRO Grandstand
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=918984&extension=ts&play_token=sWVMwpenL3
+#EXTINF:-1 tvg-name="UK| ASTRO Premier League" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="17151",UK| ASTRO Premier League
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1016544&extension=ts&play_token=wEuWv36nh7
+#EXTINF:-1 tvg-name="UK| ASTRO Premier League 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="17152",UK| ASTRO Premier League 2 HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=918985&extension=ts&play_token=YE7upz6GFW
+#EXTINF:-1 tvg-name="UK| ASTRO Premier League HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="17153",UK| ASTRO Premier League HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=918986&extension=ts&play_token=gioUuFRGNN
+#EXTINF:-1 tvg-name="##### UK NOW SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="17154",##### UK NOW SPORTS #####
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032490&extension=ts&play_token=AUbcornGVd
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17155",UK| NOW HK NOW SPORTS 1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032479&extension=ts&play_token=yxmXyBwpBG
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17156",UK| NOW HK NOW SPORTS 2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032478&extension=ts&play_token=rtpbRabmRS
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17157",UK| NOW HK NOW SPORTS 3
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032477&extension=ts&play_token=P2jByDixeF
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17158",UK| NOW HK NOW SPORTS 4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032476&extension=ts&play_token=02p8qAsmsV
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 4K 616" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17159",UK| NOW HK NOW SPORTS 4K 616
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032489&extension=ts&play_token=HH9tqmEX4B
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 4K 617" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17160",UK| NOW HK NOW SPORTS 4K 617
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032488&extension=ts&play_token=B8WKgyOscj
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17161",UK| NOW HK NOW SPORTS 5
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032475&extension=ts&play_token=ISvCLw3Z0y
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17162",UK| NOW HK NOW SPORTS 6
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032474&extension=ts&play_token=RIMr5GK6BQ
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="17163",UK| NOW HK NOW SPORTS 7
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032473&extension=ts&play_token=ykFBSGJX1I
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="17164",UK| NOW HK PREMIER SPORTS 1
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032487&extension=ts&play_token=k8xmxv5lqw
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="17165",UK| NOW HK PREMIER SPORTS 2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032486&extension=ts&play_token=uAj1ARO3Bb
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="17166",UK| NOW HK PREMIER SPORTS 3
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032485&extension=ts&play_token=sRMXthIQWC
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="17167",UK| NOW HK PREMIER SPORTS 4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032484&extension=ts&play_token=Evb4P30Kva
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="17168",UK| NOW HK PREMIER SPORTS 5
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032483&extension=ts&play_token=djNwrpdzer
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="17169",UK| NOW HK PREMIER SPORTS 6
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032482&extension=ts&play_token=v6XfitxwuI
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="17170",UK| NOW HK PREMIER SPORTS 7
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032481&extension=ts&play_token=iLjEbbfZ0O
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="17171",UK| NOW HK PREMIER SPORTS 8
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1032480&extension=ts&play_token=UwMC50RY1i
+#EXTINF:-1 tvg-id="AnimalPlanet.uk" tvg-name="D+| ANIMAL PLANET FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ANIMALPLANET.png" group-title="1025" tvg-chno="17574",D+| ANIMAL PLANET FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549398&extension=ts&play_token=HjaGNAAAA2
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="D+| DISCOVERY HISTORY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYHISTORY.png" group-title="1025" tvg-chno="17575",D+| DISCOVERY HISTORY
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549400&extension=ts&play_token=0BRndcTVDe
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="D+| DISCOVERY SCIENCE" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYSCIENCE.png" group-title="1025" tvg-chno="17576",D+| DISCOVERY SCIENCE
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549401&extension=ts&play_token=IMAH3sTVRz
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="D+| DISCOVERY TURBO" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DISCOVERYTURBO.png" group-title="1025" tvg-chno="17577",D+| DISCOVERY TURBO
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549402&extension=ts&play_token=STGjdXXlxB
+#EXTINF:-1 tvg-id="DiscoveryDMAX.uk" tvg-name="D+| DMAX" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DMAX.png" group-title="1025" tvg-chno="17578",D+| DMAX
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549403&extension=ts&play_token=WtRIBb11xP
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="D+| FOOD NETWORK" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FOODNETWORK.png" group-title="1025" tvg-chno="17579",D+| FOOD NETWORK
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549404&extension=ts&play_token=NkY4Z5ErwG
+#EXTINF:-1 tvg-id="HGTV.uk" tvg-name="D+| HGTV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/HGTV.png" group-title="1025" tvg-chno="17580",D+| HGTV
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549405&extension=ts&play_token=huaR22YbCV
+#EXTINF:-1 tvg-id="InvestigationDiscovery.uk" tvg-name="D+| ID" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ID.png" group-title="1025" tvg-chno="17581",D+| ID
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549406&extension=ts&play_token=MQ4wgWU7pB
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="D+| QUEST HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/QUEST.png" group-title="1025" tvg-chno="17582",D+| QUEST HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549397&extension=ts&play_token=yeQw6cnKuh
+#EXTINF:-1 tvg-id="QuestRed.uk" tvg-name="D+| QUEST RED HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/QUESTRED.png" group-title="1025" tvg-chno="17583",D+| QUEST RED HD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549407&extension=ts&play_token=y1XAbctj3k
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="D+| REALLY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/REALLY.png" group-title="1025" tvg-chno="17584",D+| REALLY
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549408&extension=ts&play_token=VsR4sONuiy
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="D+| TLC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TLC.png" group-title="1025" tvg-chno="17585",D+| TLC FHD
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=549409&extension=ts&play_token=a01MfB5Swo
+#EXTINF:-1 tvg-name="UK| EUROSPORT UHD/4k" tvg-logo="http://103.176.90.95/images/1594809.png" group-title="1851" tvg-chno="17798",UK| EUROSPORT UHD/4k
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594809&extension=ts&play_token=ay4IN6lRo3
+#EXTINF:-1 tvg-name="UK| EUROSPORT" tvg-logo="http://103.176.90.95/images/1594808.png" group-title="1851" tvg-chno="17799",UK| EUROSPORT
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594808&extension=ts&play_token=8PrmaO2KpD
+#EXTINF:-1 tvg-name="UK| EUROSPORT 2" tvg-logo="http://103.176.90.95/images/1594807.png" group-title="1851" tvg-chno="17800",UK| EUROSPORT 2
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594807&extension=ts&play_token=rxCL5cWqJJ
+#EXTINF:-1 tvg-name="UK| EUROSPORT 3" tvg-logo="http://103.176.90.95/images/1594806.png" group-title="1851" tvg-chno="17801",UK| EUROSPORT 3
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594806&extension=ts&play_token=chqwaY2Krf
+#EXTINF:-1 tvg-name="UK| EUROSPORT 4" tvg-logo="http://103.176.90.95/images/1594805.png" group-title="1851" tvg-chno="17802",UK| EUROSPORT 4
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594805&extension=ts&play_token=Qzg9CAE5RV
+#EXTINF:-1 tvg-name="UK| EUROSPORT 5" tvg-logo="http://103.176.90.95/images/1594804.png" group-title="1851" tvg-chno="17803",UK| EUROSPORT 5
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594804&extension=ts&play_token=N4vD6UOvxf
+#EXTINF:-1 tvg-name="UK| EUROSPORT 6" tvg-logo="http://103.176.90.95/images/1594803.png" group-title="1851" tvg-chno="17804",UK| EUROSPORT 6
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594803&extension=ts&play_token=x0QOkRUM33
+#EXTINF:-1 tvg-name="UK| EUROSPORT 7" tvg-logo="http://103.176.90.95/images/1594802.png" group-title="1851" tvg-chno="17805",UK| EUROSPORT 7
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594802&extension=ts&play_token=dgHalr09Wc
+#EXTINF:-1 tvg-name="UK| EUROSPORT 8" tvg-logo="http://103.176.90.95/images/1594801.png" group-title="1851" tvg-chno="17806",UK| EUROSPORT 8
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594801&extension=ts&play_token=lG0nJDXtlA
+#EXTINF:-1 tvg-name="UK| EUROSPORT 9" tvg-logo="http://103.176.90.95/images/1594800.png" group-title="1851" tvg-chno="17807",UK| EUROSPORT 9
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:00:11:66&stream=1594800&extension=ts&play_token=PQTEBxd4Uu
