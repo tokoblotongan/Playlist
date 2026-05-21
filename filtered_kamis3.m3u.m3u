@@ -1,0 +1,1363 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="##### NEWS SD / FHD #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="905" tvg-chno="1473",##### NEWS SD / FHD #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=229422&extension=ts&play_token=h3n6bDbx9R
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK| SKY NEWS FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png" group-title="905" tvg-chno="1474",UK| SKY NEWS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1081655&extension=ts&play_token=kFhtoZJwDV
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK| SKY NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png" group-title="905" tvg-chno="1475",UK| SKY NEWS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30504&extension=ts&play_token=7jNpvRnCtC
+#EXTINF:-1 tvg-id="uk.Sky News" tvg-name="UK| SKY NEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYNEWS.png" group-title="905" tvg-chno="1476",UK| SKY NEWS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=459636&extension=ts&play_token=Q0sF4fluIT
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HEVC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="905" tvg-chno="1477",UK| BBC NEWS HEVC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=111541&extension=ts&play_token=zb2Y0VXBnt
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="905" tvg-chno="1478",UK| BBC NEWS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45331&extension=ts&play_token=t35VNhkinn
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK| BBC NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCNEWS.png" group-title="905" tvg-chno="1479",UK| BBC NEWS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=75865&extension=ts&play_token=9xTuPI90BT
+#EXTINF:-1 tvg-name="UK| BBC ONE YORKSHIRE" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCONEYORKSHIRE.png" group-title="905" tvg-chno="1480",UK| BBC ONE YORKSHIRE
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014200&extension=ts&play_token=WRu8EXbSdF
+#EXTINF:-1 tvg-id="BBCOneNorthernIreland.uk" tvg-name="UK| BBC ONE NORTHERN IRELAND FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCONENORTHERNIRELAND.png" group-title="905" tvg-chno="1481",UK| BBC ONE NORTHERN IRELAND FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014201&extension=ts&play_token=IhcxRDRoWw
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK| BBC PARLIAMENT" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCPARLIAMENT.png" group-title="905" tvg-chno="1482",UK| BBC PARLIAMENT
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=317211&extension=ts&play_token=ShhW9kmdxJ
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="UK| BBC WORLD NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCWORLDNEWS.png" group-title="905" tvg-chno="1483",UK| BBC WORLD NEWS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1468854&extension=ts&play_token=oMstAvQA1a
+#EXTINF:-1 tvg-id="uk.CNN" tvg-name="UK| CNN FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CNN.png" group-title="905" tvg-chno="1484",UK| CNN FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30553&extension=ts&play_token=s0ktTVWuGo
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK| CNN INTERNATIONAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CNNINTERNATIONAL.png" group-title="905" tvg-chno="1485",UK| CNN INTERNATIONAL
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=459632&extension=ts&play_token=XtjJTNOXvo
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK| CNBC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CNBC.png" group-title="905" tvg-chno="1486",UK| CNBC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=164037&extension=ts&play_token=OzYNrbZcWw
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK| GB NEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/GBNEWS.png" group-title="905" tvg-chno="1487",UK| GB NEWS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=995306&extension=ts&play_token=YW7ao6laLi
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="UK| GB NEWS FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/GBNEWS.png" group-title="905" tvg-chno="1488",UK| GB NEWS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=622483&extension=ts&play_token=02vZs4VtnD
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="UK| EURONEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EURONEWS.png" group-title="905" tvg-chno="1489",UK| EURONEWS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=75866&extension=ts&play_token=qSWsueQsDJ
+#EXTINF:-1 tvg-id="uk.Euronews" tvg-name="UK| EURONEWS EN HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EURONEWS.png" group-title="905" tvg-chno="1490",UK| EURONEWS EN HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=459631&extension=ts&play_token=YfhnL7uZYh
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="UK| AL JAZEERA EN HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ALJAZEERA.png" group-title="905" tvg-chno="1491",UK| AL JAZEERA EN HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=229460&extension=ts&play_token=tITxPHAOGb
+#EXTINF:-1 tvg-name="UK| BBC ARABIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BBCARABIC.png" group-title="905" tvg-chno="1492",UK| BBC ARABIC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=459638&extension=ts&play_token=ZolVHOAIM0
+#EXTINF:-1 tvg-id="AriseNews.uk" tvg-name="UK| ARISE NEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ARISENEWS.png" group-title="905" tvg-chno="1493",UK| ARISE NEWS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014205&extension=ts&play_token=hp6hLfmdPh
+#EXTINF:-1 tvg-name="UK| RT UK HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="905" tvg-chno="1494",UK| RT UK HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=149649&extension=ts&play_token=E2KeD92gCJ
+#EXTINF:-1 tvg-id="uk.RT HD" tvg-name="UK| RT NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="905" tvg-chno="1495",UK| RT NEWS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=149648&extension=ts&play_token=UfQs0T7scO
+#EXTINF:-1 tvg-name="UK| RTE NEWS NOW" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RTENEWSNOW.png" group-title="905" tvg-chno="1496",UK| RTE NEWS NOW
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014206&extension=ts&play_token=tysKkUP94T
+#EXTINF:-1 tvg-name="UK| RT AMERICA HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="905" tvg-chno="1497",UK| RT AMERICA HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=149646&extension=ts&play_token=m0tUkZdsnC
+#EXTINF:-1 tvg-name="UK| RT FHD RUSSIAN (Temp Off Air)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RT.png" group-title="905" tvg-chno="1498",UK| RT FHD RUSSIAN (Temp Off Air)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014209&extension=ts&play_token=XiicLuhncr
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG EU" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BLOOMBERG.png" group-title="905" tvg-chno="1499",UK| BLOOMBERG EU
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=111540&extension=ts&play_token=BUIqxbSRqr
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BLOOMBERG.png" group-title="905" tvg-chno="1500",UK| BLOOMBERG HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=49214&extension=ts&play_token=SckUeXPRVM
+#EXTINF:-1 tvg-id="BloombergTV.uk" tvg-name="UK| BLOOMBERG HEVC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BLOOMBERG.png" group-title="905" tvg-chno="1501",UK| BLOOMBERG HEVC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=111549&extension=ts&play_token=eFxTVHTRIT
+#EXTINF:-1 tvg-name="UK| DW NEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DWNEWS.png" group-title="905" tvg-chno="1502",UK| DW NEWS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=992267&extension=ts&play_token=pWlyRRn6Le
+#EXTINF:-1 tvg-name="UK| FRANCE 24" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/FRANCE24.png" group-title="905" tvg-chno="1503",UK| FRANCE 24
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=149653&extension=ts&play_token=4bKDUOcYjX
+#EXTINF:-1 tvg-id="GeoTV.uk" tvg-name="UK| GEO NEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/GEONEWS.png" group-title="905" tvg-chno="1504",UK| GEO NEWS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014203&extension=ts&play_token=4DypsPZawr
+#EXTINF:-1 tvg-name="UK| I24NEWS EN" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/I24NEWS.png" group-title="905" tvg-chno="1505",UK| I24NEWS EN
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=459634&extension=ts&play_token=ywELag8RZM
+#EXTINF:-1 tvg-name="UK| NBC NEWS NOW FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NBCNEWSNOW.png" group-title="905" tvg-chno="1506",UK| NBC NEWS NOW FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=875304&extension=ts&play_token=R13UwXjnmm
+#EXTINF:-1 tvg-name="UK| NEW MEDIA FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NEWMEDIA.png" group-title="905" tvg-chno="1507",UK| NEW MEDIA FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=875303&extension=ts&play_token=nVGpEftYGp
+#EXTINF:-1 tvg-name="UK| NHK WORLD FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NHKWORLD.png" group-title="905" tvg-chno="1508",UK| NHK WORLD FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014207&extension=ts&play_token=FLZaPg0DvN
+#EXTINF:-1 tvg-name="UK| PTV GLOBAL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PTVGLOBAL.png" group-title="905" tvg-chno="1509",UK| PTV GLOBAL
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014208&extension=ts&play_token=UQ6bEks4ui
+#EXTINF:-1 tvg-id="TVCNews.uk" tvg-name="UK| TVC NEWS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TVCNEWS.png" group-title="905" tvg-chno="1510",UK| TVC NEWS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014202&extension=ts&play_token=PhcUlkolpz
+#EXTINF:-1 tvg-name="UK| WION FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/WION.png" group-title="905" tvg-chno="1511",UK| WION FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014198&extension=ts&play_token=bLvTLAmNxn
+#EXTINF:-1 tvg-name="UK| MTV XMAS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVXMAS.png" group-title="523" tvg-chno="1613",UK| MTV XMAS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014290&extension=ts&play_token=wLWNEq4FP2
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="UK| MTV FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTV.png" group-title="523" tvg-chno="1614",UK| MTV FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45326&extension=ts&play_token=L09nN7Q6bc
+#EXTINF:-1 tvg-id="uk.MTV Live HD" tvg-name="UK| MTV LIVE FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" group-title="523" tvg-chno="1615",UK| MTV LIVE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45325&extension=ts&play_token=xa0o7uXygj
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="UK| MTV BASE" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVBASE.png" group-title="523" tvg-chno="1616",UK| MTV BASE
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45267&extension=ts&play_token=Ej8TpDIh1t
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="UK| MTV CLASSIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVCLASSIC.png" group-title="523" tvg-chno="1617",UK| MTV CLASSIC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45266&extension=ts&play_token=ukC8TD8ltV
+#EXTINF:-1 tvg-name="UK| MTV CLUB" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVCLUB.png" group-title="523" tvg-chno="1618",UK| MTV CLUB
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45265&extension=ts&play_token=2cvtIOswjI
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="UK| MTV HITS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVHITS.png" group-title="523" tvg-chno="1619",UK| MTV HITS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45264&extension=ts&play_token=eULYvgiEou
+#EXTINF:-1 tvg-id="MTVMusic.uk" tvg-name="UK| MTV MUSIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVMUSIC.png" group-title="523" tvg-chno="1620",UK| MTV MUSIC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=163792&extension=ts&play_token=x7YnCAjtBb
+#EXTINF:-1 tvg-name="UK| MC-TODDLER JAMS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1621",UK| MC-TODDLER JAMS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014292&extension=ts&play_token=fJKQBf07kZ
+#EXTINF:-1 tvg-name="UK| MC-KIDS ONLY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1622",UK| MC-KIDS ONLY
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014291&extension=ts&play_token=X2YybEqhEp
+#EXTINF:-1 tvg-name="UK| MC-THROWBACK JAMS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1623",UK| MC-THROWBACK JAMS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014289&extension=ts&play_token=FGxeFaytya
+#EXTINF:-1 tvg-name="UK| MC-90S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1624",UK| MC-90S
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014288&extension=ts&play_token=XbiRpbguJz
+#EXTINF:-1 tvg-name="UK| MC-TROPICALES" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1625",UK| MC-TROPICALES
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014287&extension=ts&play_token=1sCUXu96WJ
+#EXTINF:-1 tvg-name="UK| MC-TODAYS COUNTRY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1626",UK| MC-TODAYS COUNTRY
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014286&extension=ts&play_token=t0MhbTfqKk
+#EXTINF:-1 tvg-name="UK| MC-TEEN BEATS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1627",UK| MC-TEEN BEATS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014285&extension=ts&play_token=3TDEQ6vufM
+#EXTINF:-1 tvg-name="UK| MC-ROCK" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1628",UK| MC-ROCK
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014284&extension=ts&play_token=jhxun6TyJJ
+#EXTINF:-1 tvg-name="UK| MC-RAP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1629",UK| MC-RAP
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014283&extension=ts&play_token=inhY9666kQ
+#EXTINF:-1 tvg-name="UK| MC-R&B SOUL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1630",UK| MC-R&B SOUL
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014282&extension=ts&play_token=9DYGVHNQXu
+#EXTINF:-1 tvg-name="UK| MC-POP LATINO" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1631",UK| MC-POP LATINO
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014281&extension=ts&play_token=behksWJW7L
+#EXTINF:-1 tvg-name="UK| MC-POP HITS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1632",UK| MC-POP HITS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014280&extension=ts&play_token=bjNic9YetG
+#EXTINF:-1 tvg-name="UK| MC-POP & COUNTRY" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1633",UK| MC-POP & COUNTRY
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014279&extension=ts&play_token=G87uhSVMoD
+#EXTINF:-1 tvg-name="UK| MC-MUSICA URBANA" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1634",UK| MC-MUSICA URBANA
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014278&extension=ts&play_token=xrGprfp4dz
+#EXTINF:-1 tvg-name="UK| MC-MEXICANA" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1635",UK| MC-MEXICANA
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014277&extension=ts&play_token=qzc8RQxMKO
+#EXTINF:-1 tvg-name="UK| MC-HIT LIST" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1636",UK| MC-HIT LIST
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014276&extension=ts&play_token=vX6LpCmlYz
+#EXTINF:-1 tvg-name="UK| MC-HIP HOP" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1637",UK| MC-HIP HOP
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014275&extension=ts&play_token=F2RaT4Cdb3
+#EXTINF:-1 tvg-name="UK| MC-DANCE EDM" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1638",UK| MC-DANCE EDM
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014274&extension=ts&play_token=6eatcmfmD0
+#EXTINF:-1 tvg-name="UK| MC-ALTERNATIVE" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/musicchoice.png" group-title="523" tvg-chno="1639",UK| MC-ALTERNATIVE
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014273&extension=ts&play_token=U4uXAFIevG
+#EXTINF:-1 tvg-id="4Music.uk" tvg-name="UK| 4 MUSIC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/4MUSIC.png" group-title="523" tvg-chno="1640",UK| 4 MUSIC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014272&extension=ts&play_token=6ioKHIHzit
+#EXTINF:-1 tvg-name="UK| MTV 90S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTV90S.png" group-title="523" tvg-chno="1641",UK| MTV 90S
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014270&extension=ts&play_token=tjAAaKmw6E
+#EXTINF:-1 tvg-id="ClublandTV.uk" tvg-name="UK| CLUBLAND TV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CLUBLAND.png" group-title="523" tvg-chno="1642",UK| CLUBLAND TV
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=163793&extension=ts&play_token=tJv39ONDKh
+#EXTINF:-1 tvg-id="uk.Trace Urban" tvg-name="UK| TRACE URBAN" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TRACEURBAN.png" group-title="523" tvg-chno="1643",UK| TRACE URBAN
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=163791&extension=ts&play_token=EWcWAgDqOc
+#EXTINF:-1 tvg-id="VH1.uk" tvg-name="UK| VH1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VH1.png" group-title="523" tvg-chno="1644",UK| VH1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45234&extension=ts&play_token=iODiFbHU25
+#EXTINF:-1 tvg-name="UK| KARAOKE 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" group-title="523" tvg-chno="1645",UK| KARAOKE 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=890208&extension=ts&play_token=EMhaTU9F7e
+#EXTINF:-1 tvg-name="UK| KARAOKE 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" group-title="523" tvg-chno="1646",UK| KARAOKE 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=890209&extension=ts&play_token=lO77XLWHOl
+#EXTINF:-1 tvg-name="UK| KARAOKE 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" group-title="523" tvg-chno="1647",UK| KARAOKE 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=890211&extension=ts&play_token=cN9bXQQvr1
+#EXTINF:-1 tvg-name="UK| KARAOKE 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" group-title="523" tvg-chno="1648",UK| KARAOKE 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=890210&extension=ts&play_token=ggBhjqQliS
+#EXTINF:-1 tvg-name="UK| KARAOKE 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" group-title="523" tvg-chno="1649",UK| KARAOKE 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=890215&extension=ts&play_token=JVQwlPJnSt
+#EXTINF:-1 tvg-name="EN| KARAOKE 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" group-title="523" tvg-chno="1650",EN| KARAOKE 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=890212&extension=ts&play_token=Am3LAvDjNL
+#EXTINF:-1 tvg-name="UK| KARAOKE 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" group-title="523" tvg-chno="1651",UK| KARAOKE 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=890214&extension=ts&play_token=EUL23xtl8C
+#EXTINF:-1 tvg-name="UK| KARAOKE 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/KARAOKE.png" group-title="523" tvg-chno="1652",UK| KARAOKE 8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=890213&extension=ts&play_token=veYzSyj5Gs
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-name="UK| NOW 70S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOW70S.png" group-title="523" tvg-chno="1653",UK| NOW 70S
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=164022&extension=ts&play_token=oOAAr9sy9Y
+#EXTINF:-1 tvg-id="NOW80s.uk" tvg-name="UK| NOW 80S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOW80S.png" group-title="523" tvg-chno="1654",UK| NOW 80S
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=164012&extension=ts&play_token=c7Amr3TMr5
+#EXTINF:-1 tvg-id="Now90s.uk" tvg-name="UK| NOW 90S" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOW90S.png" group-title="523" tvg-chno="1655",UK| NOW 90S
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=163796&extension=ts&play_token=AHB4bjO8tq
+#EXTINF:-1 tvg-name="##### SKY SPORTS HD #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="401" tvg-chno="2243",##### SKY SPORTS HD #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=230682&extension=ts&play_token=NSvUyXAxK7
+#EXTINF:-1 tvg-name="UK| SKY SPORTS + HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png" group-title="401" tvg-chno="2244",UK| SKY SPORTS + HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83455&extension=ts&play_token=O4QGOgUZFP
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK|SKY SPORTS ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="401" tvg-chno="2245",UK|SKY SPORTS ACTION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83456&extension=ts&play_token=UtyUsWBObw
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="401" tvg-chno="2246",UK| SKY SPORTS CRICKET HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83454&extension=ts&play_token=v3zGEBqij2
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png" group-title="401" tvg-chno="2247",UK| SKY SPORTS F1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83453&extension=ts&play_token=DTM3IQyrEQ
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSF1.png" group-title="401" tvg-chno="2248",UK| SKY SPORTS F1 UHD/4K
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1641637&extension=ts&play_token=KI7CIp02li
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="401" tvg-chno="2249",UK| SKY SPORTS FOOTBALL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83452&extension=ts&play_token=iCCFSDvBIx
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="401" tvg-chno="2250",UK| SKY SPORTS GOLF HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83451&extension=ts&play_token=4mbKaOt1lS
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT UHD/4K" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" group-title="401" tvg-chno="2251",UK| SKY SPORTS MAIN EVENT UHD/4K
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1641636&extension=ts&play_token=cQkUJP4BB3
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="401" tvg-chno="2252",UK| SKY SPORTS MAIN EVENTS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83450&extension=ts&play_token=0iQaH5mNKE
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HD(BK)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENT.png" group-title="401" tvg-chno="2253",UK| SKY SPORTS MAIN EVENTS HD(BK)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1448189&extension=ts&play_token=KcUmieTSu8
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="401" tvg-chno="2254",UK| SKY SPORTS MIX HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83449&extension=ts&play_token=vxPBlTFAiW
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="401" tvg-chno="2255",UK| SKY SPORTS NEWS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83448&extension=ts&play_token=6jHPqs8922
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPL.png" group-title="401" tvg-chno="2256",UK| SKY SPORTS PL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83447&extension=ts&play_token=Zo9Aj4bJTt
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="401" tvg-chno="2257",UK| SKY SPORTS RACING HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=83446&extension=ts&play_token=sOaDPsWdko
+#EXTINF:-1 tvg-id="Sky Sports Tennis HD.uk" tvg-name="UK| SKY SPORTS TENNIS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="401" tvg-chno="2258",UK| SKY SPORTS TENNIS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454231&extension=ts&play_token=yTCdACBirP
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 HD" tvg-logo="http://103.176.90.92/images/79486.png" group-title="401" tvg-chno="2259",UK| TNT SPORTS 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79486&extension=ts&play_token=UtWhyO9vbK
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK| TNT SPORTS 1 HD ◉" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="401" tvg-chno="2260",UK| TNT SPORTS 1 HD ◉
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1261564&extension=ts&play_token=P68AZhL5u3
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 HD" tvg-logo="http://103.176.90.92/images/79485.png" group-title="401" tvg-chno="2261",UK| TNT SPORTS 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79485&extension=ts&play_token=5JcGMWJWQd
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 HD" tvg-logo="http://103.176.90.92/images/79484.png" group-title="401" tvg-chno="2262",UK| TNT SPORTS 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79484&extension=ts&play_token=PTO8DdmS4x
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="401" tvg-chno="2263",UK| TNT SPORTS 4 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1002857&extension=ts&play_token=1RtDI8mm0t
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="401" tvg-chno="2264",UK| TNT SPORTS 5 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1004549&extension=ts&play_token=NEhWZQ88fD
+#EXTINF:-1 tvg-name="UK| BT BOX OFFICE HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BTBOXOFFICE.png" group-title="401" tvg-chno="2265",UK| BT BOX OFFICE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1019934&extension=ts&play_token=qu6oKO1i4z
+#EXTINF:-1 tvg-name="UK| DAZN 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png" group-title="401" tvg-chno="2266",UK| DAZN 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1221178&extension=ts&play_token=OCaFViSbIt
+#EXTINF:-1 tvg-name="UK| MANCHESTER UNITED HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MANCHESTERUNITED.png" group-title="401" tvg-chno="2267",UK| MANCHESTER UNITED HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=725954&extension=ts&play_token=350MivrbtO
+#EXTINF:-1 tvg-name="UK| CHELSEA TV HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/CHELSEA.png" group-title="401" tvg-chno="2268",UK| CHELSEA TV HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45327&extension=ts&play_token=k1Wu93Hi6r
+#EXTINF:-1 tvg-id="LiverpoolFCTV.uk" tvg-name="UK| LFC TV FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="401" tvg-chno="2269",UK| LFC TV FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=910647&extension=ts&play_token=QUMjj614hC
+#EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK| LFC TV" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="401" tvg-chno="2270",UK| LFC TV
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45268&extension=ts&play_token=ia1QjihJFH
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK| MUTV FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="401" tvg-chno="2271",UK| MUTV FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45324&extension=ts&play_token=jbhNI4BpSp
+#EXTINF:-1 tvg-id="uk.Eurosport 1" tvg-name="UK| EUROSPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT1.png" group-title="401" tvg-chno="2272",UK| EUROSPORT 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=547746&extension=ts&play_token=KdCA6940bB
+#EXTINF:-1 tvg-id="uk.Eurosport 2" tvg-name="UK| EUROSPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORT2.png" group-title="401" tvg-chno="2273",UK| EUROSPORT 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=547747&extension=ts&play_token=xtbcnTR1GT
+#EXTINF:-1 tvg-id="LaLiga.uk" tvg-name="UK| PREMIER SPORT LALIGA TV HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTLALIGA.png" group-title="401" tvg-chno="2274",UK| PREMIER SPORT LALIGA TV HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=163610&extension=ts&play_token=f4HwzuGe4P
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK| PREMIER SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="401" tvg-chno="2275",UK| PREMIER SPORTS 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45235&extension=ts&play_token=IUyKx3RWxm
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| PREMIER SPORT 2 HD" tvg-logo="http://103.176.90.92/images/163608.png" group-title="401" tvg-chno="2276",UK| PREMIER SPORT 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=163608&extension=ts&play_token=CHlAoYjN0w
+#EXTINF:-1 tvg-name="##### SKY SPORTS FHD #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="401" tvg-chno="2277",##### SKY SPORTS FHD #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=230681&extension=ts&play_token=qrLpcOMVWW
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS + FHD" tvg-logo="http://103.176.90.92/images/30500.png" group-title="401" tvg-chno="2278",UK| SKY SPORTS + FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30500&extension=ts&play_token=qscun28zwR
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION FHD" tvg-logo="http://103.176.90.92/images/30501.png" group-title="401" tvg-chno="2279",UK| SKY SPORTS ACTION FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30501&extension=ts&play_token=5tagAngYTl
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET FHD" tvg-logo="http://103.176.90.92/images/30502.png" group-title="401" tvg-chno="2280",UK| SKY SPORTS CRICKET FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30502&extension=ts&play_token=XFY3p1NGdm
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 FHD" tvg-logo="http://103.176.90.92/images/30499.png" group-title="401" tvg-chno="2281",UK| SKY SPORTS F1 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30499&extension=ts&play_token=3Qi0gVLMJ1
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL FHD" tvg-logo="http://103.176.90.92/images/30498.png" group-title="401" tvg-chno="2282",UK| SKY SPORTS FOOTBALL FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30498&extension=ts&play_token=AlXHpWLGMv
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF FHD" tvg-logo="http://103.176.90.92/images/30497.png" group-title="401" tvg-chno="2283",UK| SKY SPORTS GOLF FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30497&extension=ts&play_token=yaRSBH3Ytz
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT FHD" tvg-logo="http://103.176.90.92/images/30496.png" group-title="401" tvg-chno="2284",UK| SKY SPORTS MAIN EVENT FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30496&extension=ts&play_token=RJrWa5jkGK
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX FHD" tvg-logo="http://103.176.90.92/images/30495.png" group-title="401" tvg-chno="2285",UK| SKY SPORTS MIX FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30495&extension=ts&play_token=a5mLj4tkdb
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS FHD" tvg-logo="http://103.176.90.92/images/30494.png" group-title="401" tvg-chno="2286",UK| SKY SPORTS NEWS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30494&extension=ts&play_token=BuVLf8aC2p
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PL FHD" tvg-logo="http://103.176.90.92/images/30493.png" group-title="401" tvg-chno="2287",UK| SKY SPORTS PL FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30493&extension=ts&play_token=A3eBb7RUQz
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING FHD" tvg-logo="http://103.176.90.92/images/77373.png" group-title="401" tvg-chno="2288",UK| SKY SPORTS RACING FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=77373&extension=ts&play_token=xEBBFg8E9V
+#EXTINF:-1 tvg-name="UK| SKY SPORTS TENNIS FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="401" tvg-chno="2289",UK| SKY SPORTS TENNIS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454232&extension=ts&play_token=pgMUwwQnuw
+#EXTINF:-1 tvg-id="BTSportUltimate.uk" tvg-name="UK| TNT ULTIMATE 4K+ [LIVE-EVENT]" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTULTIMATE.png" group-title="401" tvg-chno="2290",UK| TNT ULTIMATE 4K+ [LIVE-EVENT]
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1379047&extension=ts&play_token=uSrru9aOPL
+#EXTINF:-1 tvg-id="TNT.Sport.BoxOffice.HD.uk" tvg-name="UK| TNT BOX OFFICE FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BTBOXOFFICE.png" group-title="401" tvg-chno="2291",UK| TNT BOX OFFICE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1019933&extension=ts&play_token=EBkYmhyEpg
+#EXTINF:-1 tvg-id="BTSport4ESPN.uk" tvg-name="UK| TNT SPORTS ESPN FHD" tvg-logo="http://103.176.90.92/images/30564.png" group-title="401" tvg-chno="2292",UK| TNT SPORTS ESPN FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30564&extension=ts&play_token=X4CcADPRbC
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 FHD" tvg-logo="http://103.176.90.92/images/30567.png" group-title="401" tvg-chno="2293",UK| TNT SPORTS 1 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30567&extension=ts&play_token=0eEtCdYKOU
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 FHD" tvg-logo="http://103.176.90.92/images/30566.png" group-title="401" tvg-chno="2294",UK| TNT SPORTS 2 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30566&extension=ts&play_token=CmX5VhAvFC
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 FHD" tvg-logo="http://103.176.90.92/images/30565.png" group-title="401" tvg-chno="2295",UK| TNT SPORTS 3 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30565&extension=ts&play_token=e3aEV9xB39
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="401" tvg-chno="2296",UK| TNT SPORTS 4 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1019935&extension=ts&play_token=ez0KqElpEw
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5 FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="401" tvg-chno="2297",UK| TNT SPORTS 5 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1004548&extension=ts&play_token=1Z4QwIWJ7I
+#EXTINF:-1 tvg-name="##### SKY SPORTS SD #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="401" tvg-chno="2298",##### SKY SPORTS SD #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=230683&extension=ts&play_token=n8KcPe3ayY
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS +" tvg-logo="http://103.176.90.92/images/79481.png" group-title="401" tvg-chno="2299",UK| SKY SPORTS +
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79481&extension=ts&play_token=N6Fr6zzbVp
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION" tvg-logo="http://103.176.90.92/images/79482.png" group-title="401" tvg-chno="2300",UK| SKY SPORTS ACTION
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79482&extension=ts&play_token=BLg2NEecLN
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET" tvg-logo="http://103.176.90.92/images/79480.png" group-title="401" tvg-chno="2301",UK| SKY SPORTS CRICKET
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79480&extension=ts&play_token=aOq4qSfgbY
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1" tvg-logo="http://103.176.90.92/images/79479.png" group-title="401" tvg-chno="2302",UK| SKY SPORTS F1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79479&extension=ts&play_token=OtpGk5ayPl
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL" tvg-logo="http://103.176.90.92/images/79478.png" group-title="401" tvg-chno="2303",UK| SKY SPORTS FOOTBALL
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79478&extension=ts&play_token=c5vLjA6DhV
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF" tvg-logo="http://103.176.90.92/images/79477.png" group-title="401" tvg-chno="2304",UK| SKY SPORTS GOLF
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79477&extension=ts&play_token=WcquMscGim
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT" tvg-logo="http://103.176.90.92/images/79476.png" group-title="401" tvg-chno="2305",UK| SKY SPORTS MAIN EVENT
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79476&extension=ts&play_token=AgI2OJVaLA
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX" tvg-logo="http://103.176.90.92/images/79475.png" group-title="401" tvg-chno="2306",UK| SKY SPORTS MIX
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79475&extension=ts&play_token=Bn8jHcRr2n
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS" tvg-logo="http://103.176.90.92/images/79474.png" group-title="401" tvg-chno="2307",UK| SKY SPORTS NEWS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79474&extension=ts&play_token=H89jb6sNz3
+#EXTINF:-1 tvg-id="uk.Sky Sports Premier League" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://103.176.90.92/images/79473.png" group-title="401" tvg-chno="2308",UK| SKY SPORTS PREMIER LEAGUE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79473&extension=ts&play_token=YxxSHEcZwZ
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING" tvg-logo="http://103.176.90.92/images/79472.png" group-title="401" tvg-chno="2309",UK| SKY SPORTS RACING
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=79472&extension=ts&play_token=ZTINNnEeIH
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="401" tvg-chno="2310",UK| TNT SPORTS 1 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1047260&extension=ts&play_token=3gxxm0t9x5
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-name="UK| TNT SPORTS 2 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="401" tvg-chno="2311",UK| TNT SPORTS 2 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1047261&extension=ts&play_token=sjmPqaBOs8
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-name="UK| TNT SPORTS 3 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="401" tvg-chno="2312",UK| TNT SPORTS 3 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1047262&extension=ts&play_token=j5YkkqwfEW
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-name="UK| TNT SPORTS 4 SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="401" tvg-chno="2313",UK| TNT SPORTS 4 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1047263&extension=ts&play_token=kmDlz75WyD
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="UK| TNT SPORTS 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS5.png" group-title="401" tvg-chno="2314",UK| TNT SPORTS 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1004550&extension=ts&play_token=O55fS28i7o
+#EXTINF:-1 tvg-id="uk.Eurosport 1" tvg-name="UK| EUROSPORT 1 FHD" tvg-logo="http://103.176.90.92/images/30541.png" group-title="401" tvg-chno="2315",UK| EUROSPORT 1 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30541&extension=ts&play_token=At9bl4176L
+#EXTINF:-1 tvg-id="uk.Eurosport 2 HD" tvg-name="UK| EUROSPORT 2 FHD" tvg-logo="http://103.176.90.92/images/30540.png" group-title="401" tvg-chno="2316",UK| EUROSPORT 2 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30540&extension=ts&play_token=yxvHADXZxT
+#EXTINF:-1 tvg-name="UK| VIAPLAY XTRA HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="401" tvg-chno="2317",UK| VIAPLAY XTRA HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014260&extension=ts&play_token=1BbZdqaY0T
+#EXTINF:-1 tvg-name="UK| PREMIER SPORT LALIGA TV FHD" tvg-logo="http://103.176.90.92/images/163611.png" group-title="401" tvg-chno="2318",UK| PREMIER SPORT LALIGA TV FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=163611&extension=ts&play_token=G23glS1InH
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| PREMIER SPORT 1 FHD" tvg-logo="http://103.176.90.92/images/163607.png" group-title="401" tvg-chno="2319",UK| PREMIER SPORT 1 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=163607&extension=ts&play_token=YllzOyzWgF
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| PREMIER SPORTS 2 FHD" tvg-logo="http://103.176.90.92/images/45251.png" group-title="401" tvg-chno="2320",UK| PREMIER SPORTS 2 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=45251&extension=ts&play_token=YQbKP2Y6qL
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK FHD" tvg-logo="http://103.176.90.92/images/30523.png" group-title="401" tvg-chno="2321",UK| RACING UK FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=30523&extension=ts&play_token=9t60csl08u
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK ◉" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" group-title="401" tvg-chno="2322",UK| RACING UK ◉
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1069214&extension=ts&play_token=2V0Kh0FXmT
+#EXTINF:-1 tvg-name="UK| WWE LIVE HD" tvg-logo="http://103.176.90.92/images/164032.png" group-title="401" tvg-chno="2323",UK| WWE LIVE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=164032&extension=ts&play_token=UbtgH7GoT7
+#EXTINF:-1 tvg-name="UK| PDC DARTS TV 2 (Event Only)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PDCDARTS.png" group-title="401" tvg-chno="2324",UK| PDC DARTS TV 2 (Event Only)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014239&extension=ts&play_token=Z7bWuPRQ5R
+#EXTINF:-1 tvg-name="UK| PDC DARTS TV 1 (Event Only)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PDCDARTS.png" group-title="401" tvg-chno="2325",UK| PDC DARTS TV 1 (Event Only)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014240&extension=ts&play_token=f58Z0v2UyX
+#EXTINF:-1 tvg-name="UK| EDGE SPORT FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EDGESPORT.png" group-title="401" tvg-chno="2326",UK| EDGE SPORT FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014266&extension=ts&play_token=es7GtF7BRM
+#EXTINF:-1 tvg-name="UK| UFC TV (Events2)" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UFC.png" group-title="401" tvg-chno="2327",UK| UFC TV (Events2)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1014267&extension=ts&play_token=to1cBApqIW
+#EXTINF:-1 tvg-name="UK| UFC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UFC.png" group-title="401" tvg-chno="2328",UK| UFC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=825538&extension=ts&play_token=SjPoU00Hoa
+#EXTINF:-1 tvg-name="##### SPORTS HEVC  ####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1661" tvg-chno="2329",##### SPORTS HEVC  ####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458683&extension=ts&play_token=jjEtTXIEmM
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS + FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png" group-title="1661" tvg-chno="2330",UK| SKY SPORTS + FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458676&extension=ts&play_token=Ln1nQQ8PJj
+#EXTINF:-1 tvg-id="uk.861 SkySp ActionHD" tvg-name="UK| SKY SPORTS ACTION HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="1661" tvg-chno="2331",UK| SKY SPORTS ACTION HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458664&extension=ts&play_token=aZ66S8z5W8
+#EXTINF:-1 tvg-id="uk.407 SkySp Action" tvg-name="UK| SKY SPORTS ACTION HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="1661" tvg-chno="2332",UK| SKY SPORTS ACTION HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458677&extension=ts&play_token=Ks7t2KLxiY
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="1661" tvg-chno="2333",UK| SKY SPORTS CRICKET HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458675&extension=ts&play_token=gN8BjWsDK6
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK| SKY SPORTS CRICKET HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="1661" tvg-chno="2334",UK| SKY SPORTS CRICKET HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458662&extension=ts&play_token=J2yy9hzrAh
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="1661" tvg-chno="2335",UK| SKY SPORTS FOOTBALL HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458674&extension=ts&play_token=ahRGDOE6Aw
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK| SKY SPORTS FOOTBALL HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="1661" tvg-chno="2336",UK| SKY SPORTS FOOTBALL HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458660&extension=ts&play_token=EgbnawO2yP
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="1661" tvg-chno="2337",UK| SKY SPORTS GOLF HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458673&extension=ts&play_token=f1Ich0pmuD
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK| SKY SPORTS GOLF HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="1661" tvg-chno="2338",UK| SKY SPORTS GOLF HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458659&extension=ts&play_token=MVxkAdTY0f
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="1661" tvg-chno="2339",UK| SKY SPORTS MAIN EVENTS HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458672&extension=ts&play_token=RaUE8oHBCG
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENTS HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="1661" tvg-chno="2340",UK| SKY SPORTS MAIN EVENTS HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458658&extension=ts&play_token=xE3S7H7OzZ
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="1661" tvg-chno="2341",UK| SKY SPORTS MIX HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458671&extension=ts&play_token=RFvtg6Al49
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK| SKY SPORTS MIX HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="1661" tvg-chno="2342",UK| SKY SPORTS MIX HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458657&extension=ts&play_token=WEkQ0uAiJI
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="1661" tvg-chno="2343",UK| SKY SPORTS NEWS HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458681&extension=ts&play_token=oEE2uuDAZE
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK| SKY SPORTS NEWS HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="1661" tvg-chno="2344",UK| SKY SPORTS NEWS HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458670&extension=ts&play_token=UD04xUmGKZ
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="1661" tvg-chno="2345",UK| SKY SPORTS PREMIER LEAGUE HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458669&extension=ts&play_token=cbutnuHLJs
+#EXTINF:-1 tvg-id="uk.Sky Sports Premier League" tvg-name="UK| SKY SPORTS PREMIER LEAGUE HEVC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="1661" tvg-chno="2346",UK| SKY SPORTS PREMIER LEAGUE HEVC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458656&extension=ts&play_token=O29yJ8J62o
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="1661" tvg-chno="2347",UK| SKY SPORTS RACING HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458668&extension=ts&play_token=AMoszocm5q
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK| SKY SPORTS RACING HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="1661" tvg-chno="2348",UK| SKY SPORTS RACING HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458655&extension=ts&play_token=XXQuoLlRde
+#EXTINF:-1 tvg-name="UK| SKY SPORTS TENNIS HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="1661" tvg-chno="2349",UK| SKY SPORTS TENNIS HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458814&extension=ts&play_token=uHdYspaRYl
+#EXTINF:-1 tvg-name="UK| SKY SPORTS TENNIS HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="1661" tvg-chno="2350",UK| SKY SPORTS TENNIS HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458813&extension=ts&play_token=4GbBZXK5Bf
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS ARENA HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSARENA.png" group-title="1661" tvg-chno="2351",UK| SKY SPORTS ARENA HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458663&extension=ts&play_token=yZFfp6Dkm4
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS DARTS HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSDARTS.png" group-title="1661" tvg-chno="2352",UK| SKY SPORTS DARTS HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458661&extension=ts&play_token=CU1rFyZ9mV
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="1661" tvg-chno="2353",UK| TNT SPORTS 1 HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458678&extension=ts&play_token=j8ghfiEdMZ
+#EXTINF:-1 tvg-id="uk.413 BT Sport 1" tvg-name="UK| TNT SPORTS 1 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="1661" tvg-chno="2354",UK| TNT SPORTS 1 HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458654&extension=ts&play_token=13dgoGaJU5
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-name="UK| TNT SPORTS 1 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="1661" tvg-chno="2355",UK| TNT SPORTS 1 HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458667&extension=ts&play_token=uT9f7hIKLF
+#EXTINF:-1 tvg-id="uk.868 BT Sport 2 HD" tvg-name="UK| TNT SPORTS 2 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="1661" tvg-chno="2356",UK| TNT SPORTS 2 HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458666&extension=ts&play_token=CUx44FJa6M
+#EXTINF:-1 tvg-id="uk.414 BT Sport 2" tvg-name="UK| TNT SPORTS 2 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="1661" tvg-chno="2357",UK| TNT SPORTS 2 HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458653&extension=ts&play_token=QRcKJPI5FY
+#EXTINF:-1 tvg-id="uk.869 BT Sport 3 HD" tvg-name="UK| TNT SPORTS 3 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="1661" tvg-chno="2358",UK| TNT SPORTS 3 HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458665&extension=ts&play_token=pYMNCqPTho
+#EXTINF:-1 tvg-id="uk.417 BT Sport 3" tvg-name="UK| TNT SPORTS 3 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="1661" tvg-chno="2359",UK| TNT SPORTS 3 HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458652&extension=ts&play_token=9Fl16iCXKL
+#EXTINF:-1 tvg-name="UK| TNT SPORTS 4 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="1661" tvg-chno="2360",UK| TNT SPORTS 4 HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458815&extension=ts&play_token=rdo6pyteFR
+#EXTINF:-1 tvg-name="UK| TNT SPORTS 4 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="1661" tvg-chno="2361",UK| TNT SPORTS 4 HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458651&extension=ts&play_token=XIlUQnhzAv
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" group-title="1661" tvg-chno="2362",UK| RACING UK HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458679&extension=ts&play_token=F50LZY4odp
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK| RACING UK HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" group-title="1661" tvg-chno="2363",UK| RACING UK HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458680&extension=ts&play_token=yilHnjYDWY
+#EXTINF:-1 tvg-name="UK| TNT SPORTS BOX OFFICE HEVC" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTSBOXOFFICE.png" group-title="1661" tvg-chno="2364",UK| TNT SPORTS BOX OFFICE HEVC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458650&extension=ts&play_token=59A8BIDhpE
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="UK| EUROSPORT 1  HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS1.png" group-title="1661" tvg-chno="2365",UK| EUROSPORT 1  HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458649&extension=ts&play_token=VkJAihxkPd
+#EXTINF:-1 tvg-id="uk.Eurosport 1" tvg-name="UK| EUROSPORT 1 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS1.png" group-title="1661" tvg-chno="2366",UK| EUROSPORT 1 HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458644&extension=ts&play_token=1y6PJmCv1W
+#EXTINF:-1 tvg-id="uk.Eurosport 2" tvg-name="UK| EUROSPORTS 2 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS2.png" group-title="1661" tvg-chno="2367",UK| EUROSPORTS 2 HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458648&extension=ts&play_token=DrOP5uHVLn
+#EXTINF:-1 tvg-id="uk.Eurosport 2 HD" tvg-name="UK| EUROSPORTS 2 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS2.png" group-title="1661" tvg-chno="2368",UK| EUROSPORTS 2 HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458643&extension=ts&play_token=40ubCK5JLp
+#EXTINF:-1 tvg-id="uk.412 Premier 1 HD" tvg-name="UK| PREMIER SPORTS 1 IRELAND HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="1661" tvg-chno="2369",UK| PREMIER SPORTS 1 IRELAND HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458647&extension=ts&play_token=lbdjdLh5jh
+#EXTINF:-1 tvg-id="uk.412 Premier 1 HD" tvg-name="UK| PREMIER SPORTS 1 IRELAND HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="1661" tvg-chno="2370",UK| PREMIER SPORTS 1 IRELAND HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458642&extension=ts&play_token=3C37dfnlSh
+#EXTINF:-1 tvg-id="uk.429 Premier 2 HD" tvg-name="UK| PREMIER SPORTS 2 IRELAND HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS2.png" group-title="1661" tvg-chno="2371",UK| PREMIER SPORTS 2 IRELAND HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458641&extension=ts&play_token=7YMFuNlQyL
+#EXTINF:-1 tvg-name="UK| PREMIER SPORTS 2 IRELAND HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS2.png" group-title="1661" tvg-chno="2372",UK| PREMIER SPORTS 2 IRELAND HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458812&extension=ts&play_token=WkBXUxx7tw
+#EXTINF:-1 tvg-name="UK| DAZN PPV HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png" group-title="1661" tvg-chno="2373",UK| DAZN PPV HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458638&extension=ts&play_token=M6ShCZwT7l
+#EXTINF:-1 tvg-name="UK| DAZN PPV HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png" group-title="1661" tvg-chno="2374",UK| DAZN PPV HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458637&extension=ts&play_token=X3avfzLWEv
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| VIAPLAY 1 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="1661" tvg-chno="2375",UK| VIAPLAY 1 HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458646&extension=ts&play_token=Ai1N75iQgu
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| VIAPLAY 2 HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="1661" tvg-chno="2376",UK| VIAPLAY 2 HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458645&extension=ts&play_token=CoprxCHmWg
+#EXTINF:-1 tvg-id="ViaplaySports1.uk" tvg-name="UK| VIAPLAY 1 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="1661" tvg-chno="2377",UK| VIAPLAY 1 HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458640&extension=ts&play_token=Yg5Iiu44We
+#EXTINF:-1 tvg-id="ViaplaySports2.uk" tvg-name="UK| VIAPLAY 2 HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="1661" tvg-chno="2378",UK| VIAPLAY 2 HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458639&extension=ts&play_token=rwUhLFkwLv
+#EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK| LFC HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="1661" tvg-chno="2379",UK| LFC HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458774&extension=ts&play_token=UxNClUtrO3
+#EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK| LFC HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="1661" tvg-chno="2380",UK| LFC HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458786&extension=ts&play_token=0tDc7VO2tm
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK| MUTV HEVC FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="1661" tvg-chno="2381",UK| MUTV HEVC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458773&extension=ts&play_token=xvci2s7SMD
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK| MUTV HEVC HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="1661" tvg-chno="2382",UK| MUTV HEVC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1458772&extension=ts&play_token=T1g7YymVw3
+#EXTINF:-1 tvg-name="Sky Sport+ 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2383",Sky Sport+ 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612600&extension=ts&play_token=mvrhHFijV5
+#EXTINF:-1 tvg-name="Sky Sport+ 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2384",Sky Sport+ 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612599&extension=ts&play_token=6BX9jKC3OV
+#EXTINF:-1 tvg-name="Sky Sport+ 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2385",Sky Sport+ 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612598&extension=ts&play_token=ev7wyqjnbu
+#EXTINF:-1 tvg-name="Sky Sport+ 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2386",Sky Sport+ 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612597&extension=ts&play_token=4BybLPnSvU
+#EXTINF:-1 tvg-name="Sky Sport+ 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2387",Sky Sport+ 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612596&extension=ts&play_token=VUaIxjWQTv
+#EXTINF:-1 tvg-name="Sky Sport+ 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2388",Sky Sport+ 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612595&extension=ts&play_token=9wBHkeHSnN
+#EXTINF:-1 tvg-name="Sky Sport+ 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2389",Sky Sport+ 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612594&extension=ts&play_token=4XlsG7KJYR
+#EXTINF:-1 tvg-name="Sky Sport+ 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2390",Sky Sport+ 8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612593&extension=ts&play_token=s7SnG6MH8o
+#EXTINF:-1 tvg-name="Sky Sport+ 9" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2391",Sky Sport+ 9
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612592&extension=ts&play_token=6DcgCp9St6
+#EXTINF:-1 tvg-name="Sky Sport+ 10" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2392",Sky Sport+ 10
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612591&extension=ts&play_token=DIHIjfdVig
+#EXTINF:-1 tvg-name="Sky Sport+ 11" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2393",Sky Sport+ 11
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612590&extension=ts&play_token=r7IY5aSdVe
+#EXTINF:-1 tvg-name="Sky Sport+ 12" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2394",Sky Sport+ 12
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612589&extension=ts&play_token=SbI74D19wD
+#EXTINF:-1 tvg-name="Sky Sport+ 13" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2395",Sky Sport+ 13
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612588&extension=ts&play_token=WjM82Gjoh7
+#EXTINF:-1 tvg-name="Sky Sport+ 14" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2396",Sky Sport+ 14
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612587&extension=ts&play_token=tgr0XY9MZv
+#EXTINF:-1 tvg-name="Sky Sport+ 15" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2397",Sky Sport+ 15
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612586&extension=ts&play_token=mWgODXGQAU
+#EXTINF:-1 tvg-name="Sky Sport+ 16" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2398",Sky Sport+ 16
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612585&extension=ts&play_token=q87YxEFn9Z
+#EXTINF:-1 tvg-name="Sky Sport+ 17" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2399",Sky Sport+ 17
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612584&extension=ts&play_token=KSsiRHpWFY
+#EXTINF:-1 tvg-name="Sky Sport+ 18" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2400",Sky Sport+ 18
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612583&extension=ts&play_token=4pZTFR34tM
+#EXTINF:-1 tvg-name="Sky Sport+ 19" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2401",Sky Sport+ 19
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612582&extension=ts&play_token=jfPfFXsOVO
+#EXTINF:-1 tvg-name="Sky Sport+ 20" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2402",Sky Sport+ 20
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612581&extension=ts&play_token=b3AlcksAt0
+#EXTINF:-1 tvg-name="Sky Sport+ 21" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2403",Sky Sport+ 21
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612580&extension=ts&play_token=HCUu77y2bW
+#EXTINF:-1 tvg-name="Sky Sport+ 22" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2404",Sky Sport+ 22
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612579&extension=ts&play_token=aH0sBwxU8C
+#EXTINF:-1 tvg-name="Sky Sport+ 23" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2405",Sky Sport+ 23
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612578&extension=ts&play_token=sdUWARfhXd
+#EXTINF:-1 tvg-name="Sky Sport+ 24" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2406",Sky Sport+ 24
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612577&extension=ts&play_token=IK1yrTb94y
+#EXTINF:-1 tvg-name="Sky Sport+ 25" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2407",Sky Sport+ 25
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612576&extension=ts&play_token=Z9Krjg6G9t
+#EXTINF:-1 tvg-name="Sky Sport+ 26" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2408",Sky Sport+ 26
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612575&extension=ts&play_token=7BnJUs1sqH
+#EXTINF:-1 tvg-name="Sky Sport+ 27" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2409",Sky Sport+ 27
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612574&extension=ts&play_token=7fLWy0tmBI
+#EXTINF:-1 tvg-name="Sky Sport+ 28" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2410",Sky Sport+ 28
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612573&extension=ts&play_token=VYSio7A0Ir
+#EXTINF:-1 tvg-name="Sky Sport+ 29" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2411",Sky Sport+ 29
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612572&extension=ts&play_token=fTSfusHKM0
+#EXTINF:-1 tvg-name="Sky Sport+ 30" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2412",Sky Sport+ 30
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612571&extension=ts&play_token=TDkYfGI39O
+#EXTINF:-1 tvg-name="Sky Sport+ 31" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2413",Sky Sport+ 31
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612570&extension=ts&play_token=AjfSJg5u7B
+#EXTINF:-1 tvg-name="Sky Sport+ 32" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2414",Sky Sport+ 32
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612569&extension=ts&play_token=Hd3J5z87J3
+#EXTINF:-1 tvg-name="Sky Sport+ 33" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2415",Sky Sport+ 33
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612568&extension=ts&play_token=r6pMqgYTk0
+#EXTINF:-1 tvg-name="Sky Sport+ 34" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2416",Sky Sport+ 34
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612567&extension=ts&play_token=cmlHLVsHz0
+#EXTINF:-1 tvg-name="Sky Sport+ 35" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2417",Sky Sport+ 35
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612566&extension=ts&play_token=rs34LhRXFm
+#EXTINF:-1 tvg-name="Sky Sport+ 36" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2418",Sky Sport+ 36
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612565&extension=ts&play_token=bGjW60W08d
+#EXTINF:-1 tvg-name="Sky Sport+ 37" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2419",Sky Sport+ 37
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612564&extension=ts&play_token=noy9tOhjsX
+#EXTINF:-1 tvg-name="Sky Sport+ 38" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2420",Sky Sport+ 38
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612563&extension=ts&play_token=EIzt75VgJ4
+#EXTINF:-1 tvg-name="Sky Sport+ 39" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2421",Sky Sport+ 39
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612562&extension=ts&play_token=YLdpjrqRcP
+#EXTINF:-1 tvg-name="Sky Sport+ 40" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTPLUS.png" group-title="1900" tvg-chno="2422",Sky Sport+ 40
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1612561&extension=ts&play_token=69eAWIQKsW
+#EXTINF:-1 tvg-name="##### BEIN SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="2794",##### BEIN SPORTS #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238271&extension=ts&play_token=qbSeRgd15q
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="UK| BEIN SPORT 1 EN FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="2795",UK| BEIN SPORT 1 EN FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=483921&extension=ts&play_token=wBRO1Fp79t
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="UK| BEIN SPORT 1 EN HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="2796",UK| BEIN SPORT 1 EN HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=49226&extension=ts&play_token=FIAEYTNUxX
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="UK| BEIN SPORT 2 EN FHD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="2797",UK| BEIN SPORT 2 EN FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=483920&extension=ts&play_token=S18u2Wy2ak
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="UK| BEIN SPORT 2 EN HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="2798",UK| BEIN SPORT 2 EN HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=49225&extension=ts&play_token=8xxU7SqbwT
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="UK| BEIN SPORTS 1 EN SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="2799",UK| BEIN SPORTS 1 EN SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=735946&extension=ts&play_token=NabqpzqG7U
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="UK| BEIN SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="2800",UK| BEIN SPORTS 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238265&extension=ts&play_token=eMeVklzBs8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="UK| BEIN SPORTS 1 PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="2801",UK| BEIN SPORTS 1 PREMIUM HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238261&extension=ts&play_token=BKi9JALD3t
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 2 EN SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="2802",UK| BEIN SPORTS 2 EN SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=735945&extension=ts&play_token=QGzakVUXwS
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="UK| BEIN SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="2803",UK| BEIN SPORTS 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238264&extension=ts&play_token=fTpE7pZMax
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="UK| BEIN SPORTS 2 PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="2804",UK| BEIN SPORTS 2 PREMIUM HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238262&extension=ts&play_token=M8807AEzQF
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="UK| BEIN SPORTS 3 EN SD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="2805",UK| BEIN SPORTS 3 EN SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=735944&extension=ts&play_token=Q9BNijGNoF
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="UK| BEIN SPORTS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="2806",UK| BEIN SPORTS 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238266&extension=ts&play_token=pWvOZIiafu
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="UK| BEIN SPORTS 3 PREMIUM HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="2807",UK| BEIN SPORTS 3 PREMIUM HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238263&extension=ts&play_token=ng0MiLxHib
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="UK| BEIN SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS4.png" group-title="1309" tvg-chno="2808",UK| BEIN SPORTS 4 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238267&extension=ts&play_token=ddLoZELzbt
+#EXTINF:-1 tvg-id="beINSports8En.qa" tvg-name="UK| BEIN SPORTS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png" group-title="1309" tvg-chno="2809",UK| BEIN SPORTS 5 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238268&extension=ts&play_token=9fqAv74nUl
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="UK| BEIN SPORTS 6 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png" group-title="1309" tvg-chno="2810",UK| BEIN SPORTS 6 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238269&extension=ts&play_token=tz9FvixBO3
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="UK| BEIN SPORTS 7 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png" group-title="1309" tvg-chno="2811",UK| BEIN SPORTS 7 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=238270&extension=ts&play_token=1OdyMzl5fq
+#EXTINF:-1 tvg-name="UK| BEIN SPORTS AU 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="2812",UK| BEIN SPORTS AU 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1348093&extension=ts&play_token=l8WMWUrAEX
+#EXTINF:-1 tvg-name="UK| BEIN SPORTS AU 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="2813",UK| BEIN SPORTS AU 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1348102&extension=ts&play_token=Yvw0t72Cqi
+#EXTINF:-1 tvg-name="UK| BEIN SPORTS AU 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="2814",UK| BEIN SPORTS AU 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1348103&extension=ts&play_token=kRWwT4rqRh
+#EXTINF:-1 tvg-name="##### BEIN SPORTS ASIA #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="2815",##### BEIN SPORTS ASIA #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=923433&extension=ts&play_token=ckQo5Bjkn0
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="UK| BEIN SPORTS ASIA 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="1309" tvg-chno="2816",UK| BEIN SPORTS ASIA 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=923432&extension=ts&play_token=m2NyLX8asL
+#EXTINF:-1 tvg-id="beIN_SPORTS2_ENGLISH" tvg-name="UK| UK| BEIN SPORTS ASIA 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="1309" tvg-chno="2817",UK| UK| BEIN SPORTS ASIA 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=923431&extension=ts&play_token=xt1kVZA1i8
+#EXTINF:-1 tvg-id="beIN_SPORTS3_ENGLISH" tvg-name="UK| UK| BEIN SPORTS ASIA 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="1309" tvg-chno="2818",UK| UK| BEIN SPORTS ASIA 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=923430&extension=ts&play_token=9gSoM4q0EG
+#EXTINF:-1 tvg-name="##### SUPER SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="2819",##### SUPER SPORTS #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239075&extension=ts&play_token=JHUt4Zr0VI
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2820",UK| SUPERSPORTS ACTION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=425668&extension=ts&play_token=y6Ps9laiOJ
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS BLITZ HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2821",UK| SUPERSPORTS BLITZ HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=425310&extension=ts&play_token=Wk1aPcEonw
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS CRICKET HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2822",UK| SUPERSPORTS CRICKET HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239087&extension=ts&play_token=w3MBqLomg7
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS EVENTS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2823",UK| SUPERSPORTS EVENTS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=425312&extension=ts&play_token=E1r0Z5rcN7
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS FOOTBALL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2824",UK| SUPERSPORTS FOOTBALL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239083&extension=ts&play_token=oBEqUpWRVN
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS GOLF HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2825",UK| SUPERSPORTS GOLF HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=425667&extension=ts&play_token=VBa0CG360p
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS GRANDSTAND HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2826",UK| SUPERSPORTS GRANDSTAND HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239079&extension=ts&play_token=GZyzgO7zDz
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS LIGA HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2827",UK| SUPERSPORTS LIGA HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239076&extension=ts&play_token=0hU1VBIkVi
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS MAXIMO HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2828",UK| SUPERSPORTS MAXIMO HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=425666&extension=ts&play_token=KphYqCqYQY
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS MOTORSPORT HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2829",UK| SUPERSPORTS MOTORSPORT HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239082&extension=ts&play_token=Mv8d8jrdt8
+#EXTINF:-1 tvg-name="UK| SUPER SPORTS PLAY 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2830",UK| SUPER SPORTS PLAY 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=425313&extension=ts&play_token=LZjRZcyiEk
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS PLAY 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2831",UK| SUPERSPORTS PLAY 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=425311&extension=ts&play_token=2hqufoOxkF
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS PL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2832",UK| SUPERSPORTS PL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239078&extension=ts&play_token=yzgx2Xho3o
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS PSL HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2833",UK| SUPERSPORTS PSL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239077&extension=ts&play_token=xrQPYgu7Lm
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS RUGBY HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2834",UK| SUPERSPORTS RUGBY HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239086&extension=ts&play_token=HfPETMLsE9
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS TENNIS HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2835",UK| SUPERSPORTS TENNIS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=425314&extension=ts&play_token=STY4YvspDv
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS VARIETY 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2836",UK| SUPERSPORTS VARIETY 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239081&extension=ts&play_token=BFoSoj0KAm
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS VARIETY 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2837",UK| SUPERSPORTS VARIETY 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239080&extension=ts&play_token=RtfBW5n0aL
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS VARIETY 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2838",UK| SUPERSPORTS VARIETY 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239085&extension=ts&play_token=jxmpHXy4jv
+#EXTINF:-1 tvg-name="UK| SUPERSPORTS VARIETY 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="1309" tvg-chno="2839",UK| SUPERSPORTS VARIETY 4 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=239084&extension=ts&play_token=i1LB1QOkng
+#EXTINF:-1 tvg-name="##### UK ASTRO SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="2840",##### UK ASTRO SPORTS #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=918987&extension=ts&play_token=dimcmqNQmZ
+#EXTINF:-1 tvg-name="UK| ASTRO Football" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="2841",UK| ASTRO Football
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=918983&extension=ts&play_token=UctTqzlqok
+#EXTINF:-1 tvg-name="UK| ASTRO Football" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="2842",UK| ASTRO Football
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1016545&extension=ts&play_token=zCTXQ37lyr
+#EXTINF:-1 tvg-name="UK| ASTRO Grandstand" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="2843",UK| ASTRO Grandstand
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=918984&extension=ts&play_token=4xhotCxvuH
+#EXTINF:-1 tvg-name="UK| ASTRO Premier League" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="2844",UK| ASTRO Premier League
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1016544&extension=ts&play_token=wwtNDferFS
+#EXTINF:-1 tvg-name="UK| ASTRO Premier League 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="2845",UK| ASTRO Premier League 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=918985&extension=ts&play_token=zdkAnqZc1r
+#EXTINF:-1 tvg-name="UK| ASTRO Premier League HD" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="1309" tvg-chno="2846",UK| ASTRO Premier League HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=918986&extension=ts&play_token=pqFzX3ppq9
+#EXTINF:-1 tvg-name="##### UK NOW SPORTS #####" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="1309" tvg-chno="2847",##### UK NOW SPORTS #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032490&extension=ts&play_token=cu8xMJr2gJ
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2848",UK| NOW HK NOW SPORTS 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032479&extension=ts&play_token=g5re81iqxP
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2849",UK| NOW HK NOW SPORTS 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032478&extension=ts&play_token=UZ0sa7jVRi
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2850",UK| NOW HK NOW SPORTS 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032477&extension=ts&play_token=7ZgSwIgZpn
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2851",UK| NOW HK NOW SPORTS 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032476&extension=ts&play_token=0rTYOXf4T3
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 4K 616" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2852",UK| NOW HK NOW SPORTS 4K 616
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032489&extension=ts&play_token=Kb3qmuastX
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 4K 617" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2853",UK| NOW HK NOW SPORTS 4K 617
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032488&extension=ts&play_token=f5p9iBNKw9
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2854",UK| NOW HK NOW SPORTS 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032475&extension=ts&play_token=VOX563ind9
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2855",UK| NOW HK NOW SPORTS 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032474&extension=ts&play_token=Pej3PAFskv
+#EXTINF:-1 tvg-name="UK| NOW HK NOW SPORTS 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="1309" tvg-chno="2856",UK| NOW HK NOW SPORTS 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032473&extension=ts&play_token=N8GUYXrrFo
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 1" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="2857",UK| NOW HK PREMIER SPORTS 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032487&extension=ts&play_token=HB2RbZvuax
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 2" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="2858",UK| NOW HK PREMIER SPORTS 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032486&extension=ts&play_token=RVZvXGJWXH
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 3" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="2859",UK| NOW HK PREMIER SPORTS 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032485&extension=ts&play_token=UKoUHK8Q3V
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 4" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="2860",UK| NOW HK PREMIER SPORTS 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032484&extension=ts&play_token=9j5OBsva8I
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 5" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="2861",UK| NOW HK PREMIER SPORTS 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032483&extension=ts&play_token=rbnsrIniNP
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 6" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="2862",UK| NOW HK PREMIER SPORTS 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032482&extension=ts&play_token=Gnw76jLU54
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 7" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="2863",UK| NOW HK PREMIER SPORTS 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032481&extension=ts&play_token=QDm4n4FOAH
+#EXTINF:-1 tvg-name="UK| NOW HK PREMIER SPORTS 8" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="1309" tvg-chno="2864",UK| NOW HK PREMIER SPORTS 8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1032480&extension=ts&play_token=jXJfVTsyqS
+#EXTINF:-1 tvg-name="UK| SKY SPORTS F1 1" tvg-logo="http://103.176.90.95/images/1388607.png" group-title="1580" tvg-chno="3388",UK| SKY SPORTS F1 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388607&extension=ts&play_token=XG8y7gsGO0
+#EXTINF:-1 tvg-name="UK| SKY SPORTS F1 2" tvg-logo="http://103.176.90.95/images/1388604.png" group-title="1580" tvg-chno="3389",UK| SKY SPORTS F1 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388604&extension=ts&play_token=eBkki9VXVF
+#EXTINF:-1 tvg-name="UK| SKY SPORTS F1 3" tvg-logo="http://103.176.90.95/images/1388605.png" group-title="1580" tvg-chno="3390",UK| SKY SPORTS F1 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388605&extension=ts&play_token=duPBeA3d1g
+#EXTINF:-1 tvg-name="UK| SKY SPORTS F1 4" tvg-logo="http://103.176.90.95/images/1388603.png" group-title="1580" tvg-chno="3391",UK| SKY SPORTS F1 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388603&extension=ts&play_token=A8gRqRh6GQ
+#EXTINF:-1 tvg-name="UK| SKY SPORTS F1 5" tvg-logo="http://103.176.90.95/images/1388608.png" group-title="1580" tvg-chno="3392",UK| SKY SPORTS F1 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388608&extension=ts&play_token=Wa79rdSKww
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK| SKY SPORTS F1 HD" tvg-logo="http://103.176.90.95/images/1388606.png" group-title="1580" tvg-chno="3393",UK| SKY SPORTS F1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388606&extension=ts&play_token=uSTDGMktBG
+#EXTINF:-1 tvg-name="UK| FORMULA 1 TV FHD" tvg-logo="http://103.176.90.95/images/1388610.png" group-title="1580" tvg-chno="3394",UK| FORMULA 1 TV FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388610&extension=ts&play_token=dagb8AAK6r
+#EXTINF:-1 tvg-name="UK| FORMULA 1| ALB - ALBON WILLIAMS" tvg-logo="http://103.176.90.95/images/1388633.png" group-title="1580" tvg-chno="3395",UK| FORMULA 1| ALB - ALBON WILLIAMS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388633&extension=ts&play_token=OCs1pTtoTQ
+#EXTINF:-1 tvg-name="UK| FORMULA 1| ALO - ALONSO ALPINE" tvg-logo="http://103.176.90.95/images/1388614.png" group-title="1580" tvg-chno="3396",UK| FORMULA 1| ALO - ALONSO ALPINE
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388614&extension=ts&play_token=f8iDxFgvT9
+#EXTINF:-1 tvg-name="UK| FORMULA 1| BOT - BOTTAS ALFA ROMEO" tvg-logo="http://103.176.90.95/images/1388617.png" group-title="1580" tvg-chno="3397",UK| FORMULA 1| BOT - BOTTAS ALFA ROMEO
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388617&extension=ts&play_token=mRA6eOR7gA
+#EXTINF:-1 tvg-name="UK| FORMULA 1| DATA" tvg-logo="http://103.176.90.95/images/1388611.png" group-title="1580" tvg-chno="3398",UK| FORMULA 1| DATA
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388611&extension=ts&play_token=gOacOQvEvd
+#EXTINF:-1 tvg-name="UK| FORMULA 1| DEV - DEVRIES ALPHA TAURI" tvg-logo="http://103.176.90.95/images/1388612.png" group-title="1580" tvg-chno="3399",UK| FORMULA 1| DEV - DEVRIES ALPHA TAURI
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388612&extension=ts&play_token=Ia9HqTkiSQ
+#EXTINF:-1 tvg-name="UK| FORMULA 1| GAS - GASLY ALPHA TAURI" tvg-logo="http://103.176.90.95/images/1388616.png" group-title="1580" tvg-chno="3400",UK| FORMULA 1| GAS - GASLY ALPHA TAURI
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388616&extension=ts&play_token=wojCqBL2Lh
+#EXTINF:-1 tvg-name="UK| FORMULA 1| HAM - HAMILTON MERCEDES" tvg-logo="http://103.176.90.95/images/1388618.png" group-title="1580" tvg-chno="3401",UK| FORMULA 1| HAM - HAMILTON MERCEDES
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388618&extension=ts&play_token=SvHPMUdz2H
+#EXTINF:-1 tvg-name="UK| FORMULA 1| HUL - HULKENBERG HAAS F1 TEAM" tvg-logo="http://103.176.90.95/images/1388622.png" group-title="1580" tvg-chno="3402",UK| FORMULA 1| HUL - HULKENBERG HAAS F1 TEAM
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388622&extension=ts&play_token=KSAugbT8CJ
+#EXTINF:-1 tvg-name="UK| FORMULA 1| LAT - LATIFI WILLIAMS" tvg-logo="http://103.176.90.95/images/1388619.png" group-title="1580" tvg-chno="3403",UK| FORMULA 1| LAT - LATIFI WILLIAMS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388619&extension=ts&play_token=dhSgNzBkfd
+#EXTINF:-1 tvg-name="UK| FORMULA 1| LEC - LECLERC FERRARI" tvg-logo="http://103.176.90.95/images/1388621.png" group-title="1580" tvg-chno="3404",UK| FORMULA 1| LEC - LECLERC FERRARI
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388621&extension=ts&play_token=XPtZbF4Fwe
+#EXTINF:-1 tvg-name="UK| FORMULA 1| MAG - MAGNUSSEN HAAS F1 TEAM" tvg-logo="http://103.176.90.95/images/1388615.png" group-title="1580" tvg-chno="3405",UK| FORMULA 1| MAG - MAGNUSSEN HAAS F1 TEAM
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388615&extension=ts&play_token=CHScgjnYOV
+#EXTINF:-1 tvg-name="UK| FORMULA 1| NOR - NORRIS MCLAREN" tvg-logo="http://103.176.90.95/images/1388623.png" group-title="1580" tvg-chno="3406",UK| FORMULA 1| NOR - NORRIS MCLAREN
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388623&extension=ts&play_token=thx5VrWQJn
+#EXTINF:-1 tvg-name="UK| FORMULA 1| OCO - OCON ALPINE" tvg-logo="http://103.176.90.95/images/1388624.png" group-title="1580" tvg-chno="3407",UK| FORMULA 1| OCO - OCON ALPINE
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388624&extension=ts&play_token=3ODIxAtHym
+#EXTINF:-1 tvg-name="UK| FORMULA 1| PER - PEREZ REDBULL RACING" tvg-logo="http://103.176.90.95/images/1388625.png" group-title="1580" tvg-chno="3408",UK| FORMULA 1| PER - PEREZ REDBULL RACING
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388625&extension=ts&play_token=ccgt2Uztrv
+#EXTINF:-1 tvg-name="UK| FORMULA 1| RIC - RICCIARDO MCLAREN" tvg-logo="http://103.176.90.95/images/1388627.png" group-title="1580" tvg-chno="3409",UK| FORMULA 1| RIC - RICCIARDO MCLAREN
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388627&extension=ts&play_token=M26xdqMzrE
+#EXTINF:-1 tvg-name="UK| FORMULA 1| RUS - RUSSELL MERCEDES" tvg-logo="http://103.176.90.95/images/1388628.png" group-title="1580" tvg-chno="3410",UK| FORMULA 1| RUS - RUSSELL MERCEDES
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388628&extension=ts&play_token=yBpZ9saTb4
+#EXTINF:-1 tvg-name="UK| FORMULA 1| SAI - SAINZ FERRARI" tvg-logo="http://103.176.90.95/images/1388629.png" group-title="1580" tvg-chno="3411",UK| FORMULA 1| SAI - SAINZ FERRARI
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388629&extension=ts&play_token=LKvAuLItny
+#EXTINF:-1 tvg-name="UK| FORMULA 1| SAR - SARGEANT WILLIAMS" tvg-logo="http://103.176.90.95/images/1388620.png" group-title="1580" tvg-chno="3412",UK| FORMULA 1| SAR - SARGEANT WILLIAMS
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388620&extension=ts&play_token=Hau9p5MPsY
+#EXTINF:-1 tvg-name="UK| FORMULA 1| STR - STROLL ASTON MARTIN" tvg-logo="http://103.176.90.95/images/1388630.png" group-title="1580" tvg-chno="3413",UK| FORMULA 1| STR - STROLL ASTON MARTIN
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388630&extension=ts&play_token=y56wBcqIwE
+#EXTINF:-1 tvg-name="UK| FORMULA 1| TRACKER" tvg-logo="http://103.176.90.95/images/1388613.png" group-title="1580" tvg-chno="3414",UK| FORMULA 1| TRACKER
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388613&extension=ts&play_token=PnySj5OGbI
+#EXTINF:-1 tvg-name="UK| FORMULA 1| TSU - TSUNODA ALPHA TAURI" tvg-logo="http://103.176.90.95/images/1388631.png" group-title="1580" tvg-chno="3415",UK| FORMULA 1| TSU - TSUNODA ALPHA TAURI
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388631&extension=ts&play_token=pwwSaUHeXI
+#EXTINF:-1 tvg-name="UK| FORMULA 1| VER - VERSTAPPEN REDBULL RACING" tvg-logo="http://103.176.90.95/images/1388632.png" group-title="1580" tvg-chno="3416",UK| FORMULA 1| VER - VERSTAPPEN REDBULL RACING
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388632&extension=ts&play_token=fpbUUwL7UN
+#EXTINF:-1 tvg-name="UK| FORMULA 1| ZHO - ZHOU ALFA ROMEO" tvg-logo="http://103.176.90.95/images/1388626.png" group-title="1580" tvg-chno="3417",UK| FORMULA 1| ZHO - ZHOU ALFA ROMEO
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388626&extension=ts&play_token=1qLr7QbTSi
+#EXTINF:-1 tvg-name="UK| MOTOGP AMBIENT" tvg-logo="http://103.176.90.95/images/1388602.png" group-title="1580" tvg-chno="3418",UK| MOTOGP AMBIENT
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388602&extension=ts&play_token=60ZdfK5aO4
+#EXTINF:-1 tvg-name="UK| MOTOGP HELI" tvg-logo="http://103.176.90.95/images/1388600.png" group-title="1580" tvg-chno="3419",UK| MOTOGP HELI
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388600&extension=ts&play_token=OgYiZuyWiZ
+#EXTINF:-1 tvg-name="UK| MOTOGP OB1" tvg-logo="http://103.176.90.95/images/1388599.png" group-title="1580" tvg-chno="3420",UK| MOTOGP OB1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388599&extension=ts&play_token=87EWqj1xDu
+#EXTINF:-1 tvg-name="UK| MOTOGP OB2" tvg-logo="http://103.176.90.95/images/1388598.png" group-title="1580" tvg-chno="3421",UK| MOTOGP OB2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388598&extension=ts&play_token=uMuQEBCtgo
+#EXTINF:-1 tvg-name="UK| MOTOGP OB3" tvg-logo="http://103.176.90.95/images/1388597.png" group-title="1580" tvg-chno="3422",UK| MOTOGP OB3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388597&extension=ts&play_token=wa0fs1Y4CO
+#EXTINF:-1 tvg-name="UK| MOTOGP OB4" tvg-logo="http://103.176.90.95/images/1388596.png" group-title="1580" tvg-chno="3423",UK| MOTOGP OB4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1388596&extension=ts&play_token=CtjcULvaM6
+#EXTINF:-1 tvg-name="UK| TT RACES01" tvg-logo="http://103.176.90.95/images/1541479.png" group-title="1580" tvg-chno="3424",UK| TT RACES01
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1541479&extension=ts&play_token=cVG1RNdoyo
+#EXTINF:-1 tvg-name="UK| TT RACES02" tvg-logo="http://103.176.90.95/images/1541478.png" group-title="1580" tvg-chno="3425",UK| TT RACES02
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1541478&extension=ts&play_token=CkEns1mxZ5
+#EXTINF:-1 tvg-name="UK| TT RACES03" tvg-logo="http://103.176.90.95/images/1541477.png" group-title="1580" tvg-chno="3426",UK| TT RACES03
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1541477&extension=ts&play_token=PtIpwPUSUL
+#EXTINF:-1 tvg-name="UK| EUROSPORT UHD/4k" tvg-logo="http://103.176.90.95/images/1594809.png" group-title="1851" tvg-chno="3491",UK| EUROSPORT UHD/4k
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594809&extension=ts&play_token=7cDn2eYn05
+#EXTINF:-1 tvg-name="UK| EUROSPORT" tvg-logo="http://103.176.90.95/images/1594808.png" group-title="1851" tvg-chno="3492",UK| EUROSPORT
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594808&extension=ts&play_token=JtWiClmiVW
+#EXTINF:-1 tvg-name="UK| EUROSPORT 2" tvg-logo="http://103.176.90.95/images/1594807.png" group-title="1851" tvg-chno="3493",UK| EUROSPORT 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594807&extension=ts&play_token=hiisKqHgwm
+#EXTINF:-1 tvg-name="UK| EUROSPORT 3" tvg-logo="http://103.176.90.95/images/1594806.png" group-title="1851" tvg-chno="3494",UK| EUROSPORT 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594806&extension=ts&play_token=Ywk0RxIPoE
+#EXTINF:-1 tvg-name="UK| EUROSPORT 4" tvg-logo="http://103.176.90.95/images/1594805.png" group-title="1851" tvg-chno="3495",UK| EUROSPORT 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594805&extension=ts&play_token=CNiy2LwlmX
+#EXTINF:-1 tvg-name="UK| EUROSPORT 5" tvg-logo="http://103.176.90.95/images/1594804.png" group-title="1851" tvg-chno="3496",UK| EUROSPORT 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594804&extension=ts&play_token=Fh6nmeow5y
+#EXTINF:-1 tvg-name="UK| EUROSPORT 6" tvg-logo="http://103.176.90.95/images/1594803.png" group-title="1851" tvg-chno="3497",UK| EUROSPORT 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594803&extension=ts&play_token=n1CMkgdYmz
+#EXTINF:-1 tvg-name="UK| EUROSPORT 7" tvg-logo="http://103.176.90.95/images/1594802.png" group-title="1851" tvg-chno="3498",UK| EUROSPORT 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594802&extension=ts&play_token=tRVwfXIEhO
+#EXTINF:-1 tvg-name="UK| EUROSPORT 8" tvg-logo="http://103.176.90.95/images/1594801.png" group-title="1851" tvg-chno="3499",UK| EUROSPORT 8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594801&extension=ts&play_token=w6iy9w2FWb
+#EXTINF:-1 tvg-name="UK| EUROSPORT 9" tvg-logo="http://103.176.90.95/images/1594800.png" group-title="1851" tvg-chno="3500",UK| EUROSPORT 9
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1594800&extension=ts&play_token=bNgWp3grJB
+#EXTINF:-1 tvg-id="TNTSports1.cl" tvg-name="TNT SPORTS | Event 1" tvg-logo="http://103.176.90.95/images/1596285.png" group-title="1857" tvg-chno="3573",TNT SPORTS | Event 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596285&extension=ts&play_token=87QyvQAbyk
+#EXTINF:-1 tvg-id="TNTSports2.cl" tvg-name="TNT SPORTS | Event 2" tvg-logo="http://103.176.90.95/images/1596284.png" group-title="1857" tvg-chno="3574",TNT SPORTS | Event 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596284&extension=ts&play_token=giAtoRpiDU
+#EXTINF:-1 tvg-id="TNT Sports 3 HD.uk" tvg-name="TNT SPORTS | Event 3" tvg-logo="http://103.176.90.95/images/1596283.png" group-title="1857" tvg-chno="3575",TNT SPORTS | Event 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596283&extension=ts&play_token=u8sZElUnlL
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 4" tvg-logo="http://103.176.90.95/images/1596282.png" group-title="1857" tvg-chno="3576",TNT SPORTS | Event 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596282&extension=ts&play_token=9jwpNcmAZ0
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 5" tvg-logo="http://103.176.90.95/images/1596281.png" group-title="1857" tvg-chno="3577",TNT SPORTS | Event 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596281&extension=ts&play_token=LTkCYnon1y
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 6" tvg-logo="http://103.176.90.95/images/1596280.png" group-title="1857" tvg-chno="3578",TNT SPORTS | Event 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596280&extension=ts&play_token=RrjyBI35Fd
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 7" tvg-logo="http://103.176.90.95/images/1596279.png" group-title="1857" tvg-chno="3579",TNT SPORTS | Event 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596279&extension=ts&play_token=vZazpe1HVC
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 8" tvg-logo="http://103.176.90.95/images/1596278.png" group-title="1857" tvg-chno="3580",TNT SPORTS | Event 8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596278&extension=ts&play_token=pikNLQbPnW
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 9" tvg-logo="http://103.176.90.95/images/1596277.png" group-title="1857" tvg-chno="3581",TNT SPORTS | Event 9
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596277&extension=ts&play_token=FfgxtlgDSX
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 10" tvg-logo="http://103.176.90.95/images/1596276.png" group-title="1857" tvg-chno="3582",TNT SPORTS | Event 10
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596276&extension=ts&play_token=RPU8ATd3Ph
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 11" tvg-logo="http://103.176.90.95/images/1596275.png" group-title="1857" tvg-chno="3583",TNT SPORTS | Event 11
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596275&extension=ts&play_token=f4OpTUcBcx
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 12" tvg-logo="http://103.176.90.95/images/1596274.png" group-title="1857" tvg-chno="3584",TNT SPORTS | Event 12
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596274&extension=ts&play_token=plvx7oaxxr
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 13" tvg-logo="http://103.176.90.95/images/1596273.png" group-title="1857" tvg-chno="3585",TNT SPORTS | Event 13
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596273&extension=ts&play_token=ZtN8wEzCvx
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 14" tvg-logo="http://103.176.90.95/images/1596272.png" group-title="1857" tvg-chno="3586",TNT SPORTS | Event 14
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596272&extension=ts&play_token=HITyofB5EZ
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 15" tvg-logo="http://103.176.90.95/images/1596271.png" group-title="1857" tvg-chno="3587",TNT SPORTS | Event 15
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596271&extension=ts&play_token=vO9qx0bLkm
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 16" tvg-logo="http://103.176.90.95/images/1596270.png" group-title="1857" tvg-chno="3588",TNT SPORTS | Event 16
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596270&extension=ts&play_token=IhCjWTNR04
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 17" tvg-logo="http://103.176.90.95/images/1596269.png" group-title="1857" tvg-chno="3589",TNT SPORTS | Event 17
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596269&extension=ts&play_token=V3vwAJeITG
+#EXTINF:-1 tvg-name="TNT SPORTS | Event 18" tvg-logo="http://103.176.90.95/images/1596268.png" group-title="1857" tvg-chno="3590",TNT SPORTS | Event 18
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1596268&extension=ts&play_token=oruY9inLiY
+#EXTINF:-1 tvg-id="uk.Alibi HD" tvg-name="UK-NOWTV| ALIBI HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905956.png" group-title="2213" tvg-chno="3990",UK-NOWTV| ALIBI HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905956&extension=ts&play_token=h5twdvxTSL
+#EXTINF:-1 tvg-id="uk.Alibi HD" tvg-name="UK-NOWTV| ALIBI SD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905955.png" group-title="2213" tvg-chno="3991",UK-NOWTV| ALIBI SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905955&extension=ts&play_token=q1jiA4NRkr
+#EXTINF:-1 tvg-id="uk.Boomerang HD" tvg-name="UK-NOWTV| BOOMERANG FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905954.png" group-title="2213" tvg-chno="3992",UK-NOWTV| BOOMERANG FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905954&extension=ts&play_token=gNStS3neVK
+#EXTINF:-1 tvg-id="uk.Boomerang HD" tvg-name="UK-NOWTV| BOOMERANG HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905952.png" group-title="2213" tvg-chno="3993",UK-NOWTV| BOOMERANG HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905952&extension=ts&play_token=VkwYOSUuqf
+#EXTINF:-1 tvg-id="uk.Boomerang HD" tvg-name="UK-NOWTV| BOOMERANG HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905953.png" group-title="2213" tvg-chno="3994",UK-NOWTV| BOOMERANG HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905953&extension=ts&play_token=IjpQI2mlAt
+#EXTINF:-1 tvg-id="uk.Cartoon Network" tvg-name="UK-NOWTV| CARTOON NETWORK FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905951.png" group-title="2213" tvg-chno="3995",UK-NOWTV| CARTOON NETWORK FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905951&extension=ts&play_token=TrrdALNiXR
+#EXTINF:-1 tvg-id="uk.Cartoon Network HD" tvg-name="UK-NOWTV| CARTOON NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905949.png" group-title="2213" tvg-chno="3996",UK-NOWTV| CARTOON NETWORK HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905949&extension=ts&play_token=XrWAb4qrwj
+#EXTINF:-1 tvg-id="uk.Cartoon Network HD" tvg-name="UK-NOWTV| CARTOON NETWORK HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905950.png" group-title="2213" tvg-chno="3997",UK-NOWTV| CARTOON NETWORK HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905950&extension=ts&play_token=k3KUbiqc8X
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK-NOWTV| COMEDY CENTRAL FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905948.png" group-title="2213" tvg-chno="3998",UK-NOWTV| COMEDY CENTRAL FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905948&extension=ts&play_token=sRUUMJeSTy
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK-NOWTV| COMEDY CENTRAL HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905946.png" group-title="2213" tvg-chno="3999",UK-NOWTV| COMEDY CENTRAL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905946&extension=ts&play_token=GhgOZahq6L
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="UK-NOWTV| COMEDY CENTRAL HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905947.png" group-title="2213" tvg-chno="4000",UK-NOWTV| COMEDY CENTRAL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905947&extension=ts&play_token=qmzQ02Bt41
+#EXTINF:-1 tvg-id="uk.GOLD HD" tvg-name="UK-NOWTV| GOLD FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905945.png" group-title="2213" tvg-chno="4001",UK-NOWTV| GOLD FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905945&extension=ts&play_token=itJVMZ41nY
+#EXTINF:-1 tvg-id="uk.GOLD HD" tvg-name="UK-NOWTV| GOLD HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905943.png" group-title="2213" tvg-chno="4002",UK-NOWTV| GOLD HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905943&extension=ts&play_token=BAD0SHuED3
+#EXTINF:-1 tvg-id="uk.GOLD HD" tvg-name="UK-NOWTV| GOLD HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905944.png" group-title="2213" tvg-chno="4003",UK-NOWTV| GOLD HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905944&extension=ts&play_token=exdmnrBe1a
+#EXTINF:-1 tvg-id="uk.MTV HD" tvg-name="UK-NOWTV| MTV FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905942.png" group-title="2213" tvg-chno="4004",UK-NOWTV| MTV FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905942&extension=ts&play_token=rDN7XrpoTh
+#EXTINF:-1 tvg-id="uk.MTV HD" tvg-name="UK-NOWTV| MTV HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905940.png" group-title="2213" tvg-chno="4005",UK-NOWTV| MTV HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905940&extension=ts&play_token=ktSNzkMF3Y
+#EXTINF:-1 tvg-id="uk.MTV HD" tvg-name="UK-NOWTV| MTV HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905941.png" group-title="2213" tvg-chno="4006",UK-NOWTV| MTV HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905941&extension=ts&play_token=InKPbBXx74
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK-NOWTV| NICKELODEON FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905936.png" group-title="2213" tvg-chno="4007",UK-NOWTV| NICKELODEON FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905936&extension=ts&play_token=yB4CDJVo4M
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK-NOWTV| NICKELODEON HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905934.png" group-title="2213" tvg-chno="4008",UK-NOWTV| NICKELODEON HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905934&extension=ts&play_token=CRZTaPDIIW
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="UK-NOWTV| NICKELODEON HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905935.png" group-title="2213" tvg-chno="4009",UK-NOWTV| NICKELODEON HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905935&extension=ts&play_token=K51pkgC8dB
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK-NOWTV| NICK JR FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905939.png" group-title="2213" tvg-chno="4010",UK-NOWTV| NICK JR FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905939&extension=ts&play_token=LGner9skhs
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK-NOWTV| NICK JR HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905937.png" group-title="2213" tvg-chno="4011",UK-NOWTV| NICK JR HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905937&extension=ts&play_token=At5yBzpUWv
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="UK-NOWTV| NICK JR HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905938.png" group-title="2213" tvg-chno="4012",UK-NOWTV| NICK JR HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905938&extension=ts&play_token=sfnY7HTNgO
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK-NOWTV| NICKTOONS FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905933.png" group-title="2213" tvg-chno="4013",UK-NOWTV| NICKTOONS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905933&extension=ts&play_token=MS6MdRSzcy
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK-NOWTV| NICKTOONS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905931.png" group-title="2213" tvg-chno="4014",UK-NOWTV| NICKTOONS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905931&extension=ts&play_token=CrOX6qiPe6
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="UK-NOWTV| NICKTOONS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905932.png" group-title="2213" tvg-chno="4015",UK-NOWTV| NICKTOONS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905932&extension=ts&play_token=xVyAP0gStP
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK-NOWTV| PREMIER SPORTS 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905930.png" group-title="2213" tvg-chno="4016",UK-NOWTV| PREMIER SPORTS 1 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905930&extension=ts&play_token=W6AiuiEckS
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK-NOWTV| PREMIER SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905928.png" group-title="2213" tvg-chno="4017",UK-NOWTV| PREMIER SPORTS 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905928&extension=ts&play_token=Bz9bMko6t1
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK-NOWTV| PREMIER SPORTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905929.png" group-title="2213" tvg-chno="4018",UK-NOWTV| PREMIER SPORTS 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905929&extension=ts&play_token=BA9z3BFyMT
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK-NOWTV| PREMIER SPORTS 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905927.png" group-title="2213" tvg-chno="4019",UK-NOWTV| PREMIER SPORTS 2 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905927&extension=ts&play_token=g2dOGzzpYz
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK-NOWTV| PREMIER SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905925.png" group-title="2213" tvg-chno="4020",UK-NOWTV| PREMIER SPORTS 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905925&extension=ts&play_token=kYJxazGIli
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK-NOWTV| PREMIER SPORTS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905926.png" group-title="2213" tvg-chno="4021",UK-NOWTV| PREMIER SPORTS 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905926&extension=ts&play_token=idmW11PLCL
+#EXTINF:-1 tvg-name="UK-NOWTV| SET SPORTS MAIN EVENT (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/UK/1905924.png" group-title="2213" tvg-chno="4022",UK-NOWTV| SET SPORTS MAIN EVENT (UHD/4K)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905924&extension=ts&play_token=jVaCmxNOLH
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK-NOWTV| SKY ACTION FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905923.png" group-title="2213" tvg-chno="4023",UK-NOWTV| SKY ACTION FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905923&extension=ts&play_token=bEn5iD1sRz
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK-NOWTV| SKY ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905921.png" group-title="2213" tvg-chno="4024",UK-NOWTV| SKY ACTION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905921&extension=ts&play_token=mntzoLmZqn
+#EXTINF:-1 tvg-id="SkyAction.uk" tvg-name="UK-NOWTV| SKY ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905922.png" group-title="2213" tvg-chno="4025",UK-NOWTV| SKY ACTION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905922&extension=ts&play_token=VciFaKse2M
+#EXTINF:-1 tvg-name="UK-NOWTV| SKYADVENTURE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905826.png" group-title="2213" tvg-chno="4026",UK-NOWTV| SKYADVENTURE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905826&extension=ts&play_token=VFNjmUpv64
+#EXTINF:-1 tvg-name="UK-NOWTV| SKYADVENTURE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905824.png" group-title="2213" tvg-chno="4027",UK-NOWTV| SKYADVENTURE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905824&extension=ts&play_token=Dteh4mMR81
+#EXTINF:-1 tvg-name="UK-NOWTV| SKYADVENTURE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905825.png" group-title="2213" tvg-chno="4028",UK-NOWTV| SKYADVENTURE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905825&extension=ts&play_token=UvlgNUiToy
+#EXTINF:-1 tvg-name="UK-NOWTV| SKYANIMATION FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905823.png" group-title="2213" tvg-chno="4029",UK-NOWTV| SKYANIMATION FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905823&extension=ts&play_token=gsw5c5j7ud
+#EXTINF:-1 tvg-name="UK-NOWTV| SKYANIMATION HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905821.png" group-title="2213" tvg-chno="4030",UK-NOWTV| SKYANIMATION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905821&extension=ts&play_token=CwDDZEkrsk
+#EXTINF:-1 tvg-name="UK-NOWTV| SKYANIMATION HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905822.png" group-title="2213" tvg-chno="4031",UK-NOWTV| SKYANIMATION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905822&extension=ts&play_token=og7VXUYh6n
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK-NOWTV| SKY ARTS 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905920.png" group-title="2213" tvg-chno="4032",UK-NOWTV| SKY ARTS 1 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905920&extension=ts&play_token=pZGXlFHNwU
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK-NOWTV| SKY ARTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905918.png" group-title="2213" tvg-chno="4033",UK-NOWTV| SKY ARTS 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905918&extension=ts&play_token=d1sE4ox49R
+#EXTINF:-1 tvg-id="SkyArts.uk" tvg-name="UK-NOWTV| SKY ARTS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905919.png" group-title="2213" tvg-chno="4034",UK-NOWTV| SKY ARTS 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905919&extension=ts&play_token=W7mv3qHzUt
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK-NOWTV| SKY ATLANTIC FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905917.png" group-title="2213" tvg-chno="4035",UK-NOWTV| SKY ATLANTIC FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905917&extension=ts&play_token=bBDcP0R0UR
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK-NOWTV| SKY ATLANTIC HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905915.png" group-title="2213" tvg-chno="4036",UK-NOWTV| SKY ATLANTIC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905915&extension=ts&play_token=mweYP5SDOO
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="UK-NOWTV| SKY ATLANTIC HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905916.png" group-title="2213" tvg-chno="4037",UK-NOWTV| SKY ATLANTIC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905916&extension=ts&play_token=C5u6zKjN1D
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY BOURNE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905914.png" group-title="2213" tvg-chno="4038",UK-NOWTV| SKY BOURNE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905914&extension=ts&play_token=uip4znKrmv
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY BOURNE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905912.png" group-title="2213" tvg-chno="4039",UK-NOWTV| SKY BOURNE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905912&extension=ts&play_token=NhGjvfUfw7
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY BOURNE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905913.png" group-title="2213" tvg-chno="4040",UK-NOWTV| SKY BOURNE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905913&extension=ts&play_token=UMq5kNeKd2
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="UK-NOWTV| SKY CINEMA PREMIERE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905911.png" group-title="2213" tvg-chno="4041",UK-NOWTV| SKY CINEMA PREMIERE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905911&extension=ts&play_token=PMO2S6eoas
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="UK-NOWTV| SKY CINEMA PREMIERE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905909.png" group-title="2213" tvg-chno="4042",UK-NOWTV| SKY CINEMA PREMIERE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905909&extension=ts&play_token=uvRNR1U6MF
+#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-name="UK-NOWTV| SKY CINEMA PREMIERE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905910.png" group-title="2213" tvg-chno="4043",UK-NOWTV| SKY CINEMA PREMIERE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905910&extension=ts&play_token=XRXAnxDOxE
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK-NOWTV| SKY COMEDY FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905908.png" group-title="2213" tvg-chno="4044",UK-NOWTV| SKY COMEDY FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905908&extension=ts&play_token=H3a2LWDOcs
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK-NOWTV| SKY COMEDY HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905906.png" group-title="2213" tvg-chno="4045",UK-NOWTV| SKY COMEDY HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905906&extension=ts&play_token=qg0IBofufU
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK-NOWTV| SKY COMEDY HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905907.png" group-title="2213" tvg-chno="4046",UK-NOWTV| SKY COMEDY HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905907&extension=ts&play_token=kuelqm8qWO
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK-NOWTV| SKY CRIME FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905905.png" group-title="2213" tvg-chno="4047",UK-NOWTV| SKY CRIME FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905905&extension=ts&play_token=Nd7thi6LK4
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK-NOWTV| SKY CRIME HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905903.png" group-title="2213" tvg-chno="4048",UK-NOWTV| SKY CRIME HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905903&extension=ts&play_token=OP7UwoOOhv
+#EXTINF:-1 tvg-id="SkyCrime.uk" tvg-name="UK-NOWTV| SKY CRIME HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905904.png" group-title="2213" tvg-chno="4049",UK-NOWTV| SKY CRIME HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905904&extension=ts&play_token=WhMktT4h3s
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK-NOWTV| SKY DOCUMENTARIES FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905902.png" group-title="2213" tvg-chno="4050",UK-NOWTV| SKY DOCUMENTARIES FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905902&extension=ts&play_token=Q7NVeLOdWU
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK-NOWTV| SKY DOCUMENTARIES HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905900.png" group-title="2213" tvg-chno="4051",UK-NOWTV| SKY DOCUMENTARIES HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905900&extension=ts&play_token=gtJBlNurQ5
+#EXTINF:-1 tvg-id="SkyDocumentaries.uk" tvg-name="UK-NOWTV| SKY DOCUMENTARIES HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905901.png" group-title="2213" tvg-chno="4052",UK-NOWTV| SKY DOCUMENTARIES HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905901&extension=ts&play_token=CTr1jVxZD1
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY DRAMA FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905899.png" group-title="2213" tvg-chno="4053",UK-NOWTV| SKY DRAMA FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905899&extension=ts&play_token=kJU0vtsbV5
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY DRAMA HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905897.png" group-title="2213" tvg-chno="4054",UK-NOWTV| SKY DRAMA HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905897&extension=ts&play_token=FilvLY6NPO
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY DRAMA HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905898.png" group-title="2213" tvg-chno="4055",UK-NOWTV| SKY DRAMA HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905898&extension=ts&play_token=EIyweYXOWp
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY GREATS FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905896.png" group-title="2213" tvg-chno="4056",UK-NOWTV| SKY GREATS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905896&extension=ts&play_token=x5tmoUeccs
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY GREATS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905894.png" group-title="2213" tvg-chno="4057",UK-NOWTV| SKY GREATS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905894&extension=ts&play_token=vuxJBrzrZp
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY GREATS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905895.png" group-title="2213" tvg-chno="4058",UK-NOWTV| SKY GREATS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905895&extension=ts&play_token=2pXZ20ltw3
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="UK-NOWTV| SKY HISTORY FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905893.png" group-title="2213" tvg-chno="4059",UK-NOWTV| SKY HISTORY FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905893&extension=ts&play_token=wislQ2I6sm
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="UK-NOWTV| SKY HISTORY HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905891.png" group-title="2213" tvg-chno="4060",UK-NOWTV| SKY HISTORY HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905891&extension=ts&play_token=mL3OzlS71T
+#EXTINF:-1 tvg-id="HistoryChannel.uk" tvg-name="UK-NOWTV| SKY HISTORY HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905892.png" group-title="2213" tvg-chno="4061",UK-NOWTV| SKY HISTORY HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905892&extension=ts&play_token=efk0I62hvH
+#EXTINF:-1 tvg-id="SkyKids.uk" tvg-name="UK-NOWTV| SKY KIDS FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905890.png" group-title="2213" tvg-chno="4062",UK-NOWTV| SKY KIDS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905890&extension=ts&play_token=iwOhUBr4jc
+#EXTINF:-1 tvg-id="SkyKids.uk" tvg-name="UK-NOWTV| SKY KIDS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905888.png" group-title="2213" tvg-chno="4063",UK-NOWTV| SKY KIDS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905888&extension=ts&play_token=pC8kCwGSCF
+#EXTINF:-1 tvg-id="SkyKids.uk" tvg-name="UK-NOWTV| SKY KIDS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905889.png" group-title="2213" tvg-chno="4064",UK-NOWTV| SKY KIDS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905889&extension=ts&play_token=0K7l3R7n4g
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK-NOWTV| SKY MAX FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905887.png" group-title="2213" tvg-chno="4065",UK-NOWTV| SKY MAX FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905887&extension=ts&play_token=ee0vPAH7Qw
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK-NOWTV| SKY MAX HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905885.png" group-title="2213" tvg-chno="4066",UK-NOWTV| SKY MAX HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905885&extension=ts&play_token=GK6QweL9uN
+#EXTINF:-1 tvg-id="SkyMax.uk" tvg-name="UK-NOWTV| SKY MAX HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905886.png" group-title="2213" tvg-chno="4067",UK-NOWTV| SKY MAX HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905886&extension=ts&play_token=DE3tHkr8HF
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK-NOWTV| SKY NATURE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905884.png" group-title="2213" tvg-chno="4068",UK-NOWTV| SKY NATURE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905884&extension=ts&play_token=ZZyCFz9Bwu
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK-NOWTV| SKY NATURE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905882.png" group-title="2213" tvg-chno="4069",UK-NOWTV| SKY NATURE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905882&extension=ts&play_token=eQZkQ6C5MH
+#EXTINF:-1 tvg-id="SkyNature.uk" tvg-name="UK-NOWTV| SKY NATURE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905883.png" group-title="2213" tvg-chno="4070",UK-NOWTV| SKY NATURE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905883&extension=ts&play_token=ndtSN3Mg7E
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY NEWS LIVE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905881.png" group-title="2213" tvg-chno="4071",UK-NOWTV| SKY NEWS LIVE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905881&extension=ts&play_token=NXSCsLbTJz
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY NEWS LIVE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905879.png" group-title="2213" tvg-chno="4072",UK-NOWTV| SKY NEWS LIVE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905879&extension=ts&play_token=Udqucgcyrj
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY NEWS LIVE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905880.png" group-title="2213" tvg-chno="4073",UK-NOWTV| SKY NEWS LIVE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905880&extension=ts&play_token=IFQ9Au2aAF
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY SCFI/HOR FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905878.png" group-title="2213" tvg-chno="4074",UK-NOWTV| SKY SCFI/HOR FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905878&extension=ts&play_token=7hwFCladtd
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY SCFI/HOR HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905876.png" group-title="2213" tvg-chno="4075",UK-NOWTV| SKY SCFI/HOR HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905876&extension=ts&play_token=ITO7hH3mGA
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY SCFI/HOR HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905877.png" group-title="2213" tvg-chno="4076",UK-NOWTV| SKY SCFI/HOR HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905877&extension=ts&play_token=RMyssU7146
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY SCI-FI FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905875.png" group-title="2213" tvg-chno="4077",UK-NOWTV| SKY SCI-FI FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905875&extension=ts&play_token=bQnZ3f5Udu
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY SCI-FI HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905873.png" group-title="2213" tvg-chno="4078",UK-NOWTV| SKY SCI-FI HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905873&extension=ts&play_token=2qUQvPhkHC
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY SCI-FI HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905874.png" group-title="2213" tvg-chno="4079",UK-NOWTV| SKY SCI-FI HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905874&extension=ts&play_token=5Z6xSd4NND
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK-NOWTV| SKY SHOWCASE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905872.png" group-title="2213" tvg-chno="4080",UK-NOWTV| SKY SHOWCASE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905872&extension=ts&play_token=FCXnNmOwsU
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK-NOWTV| SKY SHOWCASE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905870.png" group-title="2213" tvg-chno="4081",UK-NOWTV| SKY SHOWCASE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905870&extension=ts&play_token=VzuqpgKZhw
+#EXTINF:-1 tvg-id="SkyShowcase.uk" tvg-name="UK-NOWTV| SKY SHOWCASE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905871.png" group-title="2213" tvg-chno="4082",UK-NOWTV| SKY SHOWCASE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905871&extension=ts&play_token=SDm4OCR8fJ
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK-NOWTV| SKY SPORTS+ FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905835.png" group-title="2213" tvg-chno="4083",UK-NOWTV| SKY SPORTS+ FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905835&extension=ts&play_token=BoHy6k70eG
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK-NOWTV| SKY SPORTS+ HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905833.png" group-title="2213" tvg-chno="4084",UK-NOWTV| SKY SPORTS+ HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905833&extension=ts&play_token=pjekGOEA8F
+#EXTINF:-1 tvg-id="SkySportsPlus.uk" tvg-name="UK-NOWTV| SKY SPORTS+ HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905834.png" group-title="2213" tvg-chno="4085",UK-NOWTV| SKY SPORTS+ HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905834&extension=ts&play_token=0vPY2JZ3YE
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY SPORTS 1 (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/UK/1905869.png" group-title="2213" tvg-chno="4086",UK-NOWTV| SKY SPORTS 1 (UHD/4K)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905869&extension=ts&play_token=3xhq79wdyh
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY SPORTS 2 (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/UK/1905868.png" group-title="2213" tvg-chno="4087",UK-NOWTV| SKY SPORTS 2 (UHD/4K)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905868&extension=ts&play_token=vmdHcbxXkg
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK-NOWTV| SKY SPORTS ACTION FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905867.png" group-title="2213" tvg-chno="4088",UK-NOWTV| SKY SPORTS ACTION FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905867&extension=ts&play_token=Y5EnpEjRUA
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK-NOWTV| SKY SPORTS ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905865.png" group-title="2213" tvg-chno="4089",UK-NOWTV| SKY SPORTS ACTION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905865&extension=ts&play_token=HMDACdWfDK
+#EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK-NOWTV| SKY SPORTS ACTION HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905866.png" group-title="2213" tvg-chno="4090",UK-NOWTV| SKY SPORTS ACTION HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905866&extension=ts&play_token=1PB6Gfyt9u
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK-NOWTV| SKY SPORTS CRICKET FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905864.png" group-title="2213" tvg-chno="4091",UK-NOWTV| SKY SPORTS CRICKET FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905864&extension=ts&play_token=wXVB3bEWiQ
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK-NOWTV| SKY SPORTS CRICKET HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905862.png" group-title="2213" tvg-chno="4092",UK-NOWTV| SKY SPORTS CRICKET HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905862&extension=ts&play_token=zPsnjtuTfl
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK-NOWTV| SKY SPORTS CRICKET HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905863.png" group-title="2213" tvg-chno="4093",UK-NOWTV| SKY SPORTS CRICKET HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905863&extension=ts&play_token=PTqr8dR8N4
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK-NOWTV| SKY SPORTS F1 (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/UK/1905859.png" group-title="2213" tvg-chno="4094",UK-NOWTV| SKY SPORTS F1 (UHD/4K)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905859&extension=ts&play_token=GQN7dNPyNK
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK-NOWTV| SKY SPORTS F1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905860.png" group-title="2213" tvg-chno="4095",UK-NOWTV| SKY SPORTS F1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905860&extension=ts&play_token=19wUT9lXwE
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK-NOWTV| SKY SPORTS F1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905861.png" group-title="2213" tvg-chno="4096",UK-NOWTV| SKY SPORTS F1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905861&extension=ts&play_token=GwYBVbi2lg
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK-NOWTV| SKY SPORTS FOOTBALL FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905858.png" group-title="2213" tvg-chno="4097",UK-NOWTV| SKY SPORTS FOOTBALL FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905858&extension=ts&play_token=h7f20cjKoD
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK-NOWTV| SKY SPORTS FOOTBALL HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905856.png" group-title="2213" tvg-chno="4098",UK-NOWTV| SKY SPORTS FOOTBALL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905856&extension=ts&play_token=q4sJt0QhYW
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK-NOWTV| SKY SPORTS FOOTBALL HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905857.png" group-title="2213" tvg-chno="4099",UK-NOWTV| SKY SPORTS FOOTBALL HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905857&extension=ts&play_token=Qaph2Id5HJ
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK-NOWTV| SKY SPORTS GOLF HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905854.png" group-title="2213" tvg-chno="4100",UK-NOWTV| SKY SPORTS GOLF HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905854&extension=ts&play_token=94uR3NayYi
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK-NOWTV| SKY SPORTS GOLF HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905855.png" group-title="2213" tvg-chno="4101",UK-NOWTV| SKY SPORTS GOLF HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905855&extension=ts&play_token=QoDEpCMQ2M
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK-NOWTV| SKY SPORTS MAIN EVENT FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905853.png" group-title="2213" tvg-chno="4102",UK-NOWTV| SKY SPORTS MAIN EVENT FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905853&extension=ts&play_token=S6rulGvxH4
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK-NOWTV| SKY SPORTS MAIN EVENT HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905852.png" group-title="2213" tvg-chno="4103",UK-NOWTV| SKY SPORTS MAIN EVENT HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905852&extension=ts&play_token=TtPLvfJ4Cj
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK-NOWTV| SKY SPORTS MAIN EVENT SD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905851.png" group-title="2213" tvg-chno="4104",UK-NOWTV| SKY SPORTS MAIN EVENT SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905851&extension=ts&play_token=qDPkmMgSyT
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK-NOWTV| SKY SPORTS MIX FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905850.png" group-title="2213" tvg-chno="4105",UK-NOWTV| SKY SPORTS MIX FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905850&extension=ts&play_token=NeS8S0MS6H
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK-NOWTV| SKY SPORTS MIX HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905848.png" group-title="2213" tvg-chno="4106",UK-NOWTV| SKY SPORTS MIX HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905848&extension=ts&play_token=ZWdFbEcvHG
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK-NOWTV| SKY SPORTS MIX HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905849.png" group-title="2213" tvg-chno="4107",UK-NOWTV| SKY SPORTS MIX HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905849&extension=ts&play_token=W3lv5OiiUL
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK-NOWTV| SKY SPORTS NEWS HQ FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905847.png" group-title="2213" tvg-chno="4108",UK-NOWTV| SKY SPORTS NEWS HQ FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905847&extension=ts&play_token=VL66owsiEk
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK-NOWTV| SKY SPORTS NEWS HQ HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905845.png" group-title="2213" tvg-chno="4109",UK-NOWTV| SKY SPORTS NEWS HQ HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905845&extension=ts&play_token=fHe4RIkbpa
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK-NOWTV| SKY SPORTS NEWS HQ HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905846.png" group-title="2213" tvg-chno="4110",UK-NOWTV| SKY SPORTS NEWS HQ HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905846&extension=ts&play_token=M2ZZIyQhPW
+#EXTINF:-1 tvg-id="uk.Sky Sports Premier League" tvg-name="UK-NOWTV| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905844.png" group-title="2213" tvg-chno="4111",UK-NOWTV| SKY SPORTS PREMIER LEAGUE FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905844&extension=ts&play_token=YHV9gY1KxZ
+#EXTINF:-1 tvg-id="uk.Sky Sports Premier League HD" tvg-name="UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905842.png" group-title="2213" tvg-chno="4112",UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905842&extension=ts&play_token=EGhIWOloKd
+#EXTINF:-1 tvg-id="uk.Sky Sports Premier League" tvg-name="UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905843.png" group-title="2213" tvg-chno="4113",UK-NOWTV| SKY SPORTS PREMIER LEAGUE HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905843&extension=ts&play_token=gCeaKhVV1k
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK-NOWTV| SKY SPORTS RACING FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905841.png" group-title="2213" tvg-chno="4114",UK-NOWTV| SKY SPORTS RACING FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905841&extension=ts&play_token=cyofeki3Oh
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK-NOWTV| SKY SPORTS RACING HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905839.png" group-title="2213" tvg-chno="4115",UK-NOWTV| SKY SPORTS RACING HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905839&extension=ts&play_token=mVLmaM6t8w
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK-NOWTV| SKY SPORTS RACING HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905840.png" group-title="2213" tvg-chno="4116",UK-NOWTV| SKY SPORTS RACING HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905840&extension=ts&play_token=Jgsld9YdMU
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="UK-NOWTV| SKY SPORTS TENNIS FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905838.png" group-title="2213" tvg-chno="4117",UK-NOWTV| SKY SPORTS TENNIS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905838&extension=ts&play_token=1gXrlOS6YC
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="UK-NOWTV| SKY SPORTS TENNIS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905836.png" group-title="2213" tvg-chno="4118",UK-NOWTV| SKY SPORTS TENNIS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905836&extension=ts&play_token=plTJewjDit
+#EXTINF:-1 tvg-id="SkySportsTennis.uk" tvg-name="UK-NOWTV| SKY SPORTS TENNIS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905837.png" group-title="2213" tvg-chno="4119",UK-NOWTV| SKY SPORTS TENNIS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905837&extension=ts&play_token=wZsFTsgb1i
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY THRILLER FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905832.png" group-title="2213" tvg-chno="4120",UK-NOWTV| SKY THRILLER FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905832&extension=ts&play_token=4rkGIThdT6
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY THRILLER HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905830.png" group-title="2213" tvg-chno="4121",UK-NOWTV| SKY THRILLER HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905830&extension=ts&play_token=idJNBYIRPo
+#EXTINF:-1 tvg-name="UK-NOWTV| SKY THRILLER HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905831.png" group-title="2213" tvg-chno="4122",UK-NOWTV| SKY THRILLER HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905831&extension=ts&play_token=PQC2mOXRpI
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK-NOWTV| SKY WITNESS FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905829.png" group-title="2213" tvg-chno="4123",UK-NOWTV| SKY WITNESS FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905829&extension=ts&play_token=nrQmRxRHDc
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK-NOWTV| SKY WITNESS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905827.png" group-title="2213" tvg-chno="4124",UK-NOWTV| SKY WITNESS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905827&extension=ts&play_token=cOq0RZK1NI
+#EXTINF:-1 tvg-id="SkyWitness.uk" tvg-name="UK-NOWTV| SKY WITNESS HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905828.png" group-title="2213" tvg-chno="4125",UK-NOWTV| SKY WITNESS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905828&extension=ts&play_token=gdFD5lPDEu
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK-NOWTV| TNT SPORT (UHD/4K)" tvg-logo="http://51.158.145.100/picons/logos/UK/1905820.png" group-title="2213" tvg-chno="4126",UK-NOWTV| TNT SPORT (UHD/4K)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905820&extension=ts&play_token=um6eU36LRA
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK-NOWTV| TNT SPORT 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905819.png" group-title="2213" tvg-chno="4127",UK-NOWTV| TNT SPORT 1 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905819&extension=ts&play_token=I8d4wAU7AG
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK-NOWTV| TNT SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905817.png" group-title="2213" tvg-chno="4128",UK-NOWTV| TNT SPORT 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905817&extension=ts&play_token=VHvaVBqdok
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="UK-NOWTV| TNT SPORT 1 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905818.png" group-title="2213" tvg-chno="4129",UK-NOWTV| TNT SPORT 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905818&extension=ts&play_token=t00tK3YGAm
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK-NOWTV| TNT SPORT 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905816.png" group-title="2213" tvg-chno="4130",UK-NOWTV| TNT SPORT 2 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905816&extension=ts&play_token=FbwwuQyOPV
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK-NOWTV| TNT SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905814.png" group-title="2213" tvg-chno="4131",UK-NOWTV| TNT SPORT 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905814&extension=ts&play_token=gzFWjemAoz
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="UK-NOWTV| TNT SPORT 2 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905815.png" group-title="2213" tvg-chno="4132",UK-NOWTV| TNT SPORT 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905815&extension=ts&play_token=9f7ma7C5Dr
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK-NOWTV| TNT SPORT 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905813.png" group-title="2213" tvg-chno="4133",UK-NOWTV| TNT SPORT 3 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905813&extension=ts&play_token=wm5a3m4ska
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK-NOWTV| TNT SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905811.png" group-title="2213" tvg-chno="4134",UK-NOWTV| TNT SPORT 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905811&extension=ts&play_token=7tUtDiFnfM
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="UK-NOWTV| TNT SPORT 3 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905812.png" group-title="2213" tvg-chno="4135",UK-NOWTV| TNT SPORT 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905812&extension=ts&play_token=kqe2IfaoAe
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK-NOWTV| TNT SPORTS 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905810.png" group-title="2213" tvg-chno="4136",UK-NOWTV| TNT SPORTS 4 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905810&extension=ts&play_token=HHcg8Jifsl
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK-NOWTV| TNT SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905808.png" group-title="2213" tvg-chno="4137",UK-NOWTV| TNT SPORTS 4 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905808&extension=ts&play_token=XFFszYyM0E
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="UK-NOWTV| TNT SPORTS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/UK/1905809.png" group-title="2213" tvg-chno="4138",UK-NOWTV| TNT SPORTS 4 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1905809&extension=ts&play_token=yI9WI4L3t3
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN SPORTS MAX 1 AR SD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="2459" tvg-chno="4362",BEIN SPORTS MAX 1 AR SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2077107&extension=ts&play_token=vk0EpHtNfJ
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN SPORTS MAX 2 AR SD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="2459" tvg-chno="4363",BEIN SPORTS MAX 2 AR SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2077106&extension=ts&play_token=aiIAlC7M5Y
+#EXTINF:-1 tvg-id="beINSportsMax3.qa" tvg-name="BEIN SPORTS MAX 3 EN SD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX3.png" group-title="2459" tvg-chno="4364",BEIN SPORTS MAX 3 EN SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2077105&extension=ts&play_token=TscIDWEEub
+#EXTINF:-1 tvg-id="beINSportsMax4.qa" tvg-name="BEIN SPORTS MAX 4 EN SD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX4.png" group-title="2459" tvg-chno="4365",BEIN SPORTS MAX 4 EN SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2077104&extension=ts&play_token=Yo8JypRJfK
+#EXTINF:-1 tvg-id="beINSportsMax5.qa" tvg-name="BEIN SPORTS MAX 5 FR SD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX5.png" group-title="2459" tvg-chno="4366",BEIN SPORTS MAX 5 FR SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2077103&extension=ts&play_token=hapRwLEJbL
+#EXTINF:-1 tvg-id="beINSportsMax6.qa" tvg-name="BEIN SPORTS MAX 6 FR SD" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX6.png" group-title="2459" tvg-chno="4367",BEIN SPORTS MAX 6 FR SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2077102&extension=ts&play_token=SUxOEjO927
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN MAX 1 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="2457" tvg-chno="4416",BEIN MAX 1 ᴴᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076972&extension=ts&play_token=SaYcELa726
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN MAX 2 ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="2457" tvg-chno="4417",BEIN MAX 2 ᴴᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076971&extension=ts&play_token=ZAEIRGoYuC
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN MAX 1 EN ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="2457" tvg-chno="4418",BEIN MAX 1 EN ᴴᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076970&extension=ts&play_token=QLBQ0QJohZ
+#EXTINF:-1 tvg-name="BEIN MAX 2 EN ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="2457" tvg-chno="4419",BEIN MAX 2 EN ᴴᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076969&extension=ts&play_token=DnadFpXDpT
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN MAX 1 FR ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="2457" tvg-chno="4420",BEIN MAX 1 FR ᴴᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076968&extension=ts&play_token=4MVp8ogojm
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN MAX 2 FR ᴴᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="2457" tvg-chno="4421",BEIN MAX 2 FR ᴴᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076967&extension=ts&play_token=p2A0Hg7UNg
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN MAX 1 ˢᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="2457" tvg-chno="4422",BEIN MAX 1 ˢᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076966&extension=ts&play_token=gEvwKOMMUe
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN MAX 2 ˢᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="2457" tvg-chno="4423",BEIN MAX 2 ˢᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076965&extension=ts&play_token=8lTydI218K
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN MAX 1 EN ˢᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="2457" tvg-chno="4424",BEIN MAX 1 EN ˢᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076964&extension=ts&play_token=ylzNYlGSUW
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN MAX 2 EN ˢᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="2457" tvg-chno="4425",BEIN MAX 2 EN ˢᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076963&extension=ts&play_token=uwid7gBgzZ
+#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="BEIN MAX 1 FR ˢᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX1.png" group-title="2457" tvg-chno="4426",BEIN MAX 1 FR ˢᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076962&extension=ts&play_token=63X9eYQjQu
+#EXTINF:-1 tvg-id="beINSportsMax2.qa" tvg-name="BEIN MAX 2 FR ˢᴰ" tvg-logo="http://51.158.145.100/picons/logos/bein/BEINMAX2.png" group-title="2457" tvg-chno="4427",BEIN MAX 2 FR ˢᴰ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=2076961&extension=ts&play_token=xo5i2Op8FI
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454205.png" group-title="2298" tvg-chno="4860",AR| BEIN SPORTS AFC HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454205&extension=ts&play_token=f8fOAb9RWr
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 1 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454202.png" group-title="2298" tvg-chno="4861",AR| BEIN SPORTS AFC 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454202&extension=ts&play_token=kB2BODqvM7
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 2 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454199.png" group-title="2298" tvg-chno="4862",AR| BEIN SPORTS AFC 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454199&extension=ts&play_token=aOUlJbSVDg
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 3 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454196.png" group-title="2298" tvg-chno="4863",AR| BEIN SPORTS AFC 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454196&extension=ts&play_token=JcG2951ixM
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 4 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454193.png" group-title="2298" tvg-chno="4864",AR| BEIN SPORTS AFC 4 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454193&extension=ts&play_token=CkXsTszaQf
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 5 HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454190.png" group-title="2298" tvg-chno="4865",AR| BEIN SPORTS AFC 5 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454190&extension=ts&play_token=Srfd6ctYFo
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454204.png" group-title="2299" tvg-chno="4866",AR| BEIN SPORTS AFC SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454204&extension=ts&play_token=yDaBRwubcS
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 1 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454201.png" group-title="2299" tvg-chno="4867",AR| BEIN SPORTS AFC 1 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454201&extension=ts&play_token=9vn4V2C2xR
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 2 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454198.png" group-title="2299" tvg-chno="4868",AR| BEIN SPORTS AFC 2 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454198&extension=ts&play_token=Ep7xrRPa0F
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 3 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454195.png" group-title="2299" tvg-chno="4869",AR| BEIN SPORTS AFC 3 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454195&extension=ts&play_token=QwMnVokDnp
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 4 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454192.png" group-title="2299" tvg-chno="4870",AR| BEIN SPORTS AFC 4 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454192&extension=ts&play_token=9EB63lsB2I
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS AFC 5 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1454189.png" group-title="2299" tvg-chno="4871",AR| BEIN SPORTS AFC 5 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1454189&extension=ts&play_token=JJt4skaOps
+#EXTINF:-1 tvg-name="##### BEIN SPORTS LQ #####" tvg-logo="http://51.158.145.100/picons/logos/bein/1330486.png" group-title="1483" tvg-chno="4939",##### BEIN SPORTS LQ #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330486&extension=ts&play_token=yQAtyerjbB
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="AR| BEIN SPORTS NEWS LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330471.png" group-title="1483" tvg-chno="4940",AR| BEIN SPORTS NEWS LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330471&extension=ts&play_token=A0mVQ7ekMc
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS GLOBAL LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330472.png" group-title="1483" tvg-chno="4941",AR| BEIN SPORTS GLOBAL LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330472&extension=ts&play_token=4ojubMJohh
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="AR| BEIN SPORTS 1 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330474.png" group-title="1483" tvg-chno="4942",AR| BEIN SPORTS 1 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330474&extension=ts&play_token=vb3dB5D3c2
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="AR| BEIN SPORTS 2 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330475.png" group-title="1483" tvg-chno="4943",AR| BEIN SPORTS 2 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330475&extension=ts&play_token=RpaATKh8NH
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="AR| BEIN SPORTS 3 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330476.png" group-title="1483" tvg-chno="4944",AR| BEIN SPORTS 3 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330476&extension=ts&play_token=bS8U0KjfS4
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="AR| BEIN SPORTS 4 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330477.png" group-title="1483" tvg-chno="4945",AR| BEIN SPORTS 4 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330477&extension=ts&play_token=TUxgQwtRnI
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="AR| BEIN SPORTS 5 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330478.png" group-title="1483" tvg-chno="4946",AR| BEIN SPORTS 5 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330478&extension=ts&play_token=TamjkepIoE
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="AR| BEIN SPORTS 6 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330479.png" group-title="1483" tvg-chno="4947",AR| BEIN SPORTS 6 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330479&extension=ts&play_token=jXZwMINW5W
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="AR| BEIN SPORTS 7 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330480.png" group-title="1483" tvg-chno="4948",AR| BEIN SPORTS 7 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330480&extension=ts&play_token=gb4CAbiWx1
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS 8 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330481.png" group-title="1483" tvg-chno="4949",AR| BEIN SPORTS 8 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330481&extension=ts&play_token=HloRsj03tY
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS 9 LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330482.png" group-title="1483" tvg-chno="4950",AR| BEIN SPORTS 9 LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330482&extension=ts&play_token=KBw6MtNdW0
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="AR| BEIN SPORTS 1 XTRA LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330483.png" group-title="1483" tvg-chno="4951",AR| BEIN SPORTS 1 XTRA LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330483&extension=ts&play_token=eIR2A8LQIS
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="AR| BEIN SPORTS 2 XTRA LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330484.png" group-title="1483" tvg-chno="4952",AR| BEIN SPORTS 2 XTRA LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330484&extension=ts&play_token=4EzewzQ1dR
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS 3 XTRA LQ" tvg-logo="http://51.158.145.100/picons/logos/bein/1330485.png" group-title="1483" tvg-chno="4953",AR| BEIN SPORTS 3 XTRA LQ
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330485&extension=ts&play_token=O1DS7mGhAE
+#EXTINF:-1 tvg-name="##### BEIN SPORTS SD #####" tvg-logo="http://51.158.145.100/picons/logos/bein/1294856.png" group-title="1483" tvg-chno="4954",##### BEIN SPORTS SD #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1294856&extension=ts&play_token=FO9q4qgXKb
+#EXTINF:-1 tvg-name="AR| TOD 360 SD ( EVENT ONLY )" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOD.png" group-title="1483" tvg-chno="4955",AR| TOD 360 SD ( EVENT ONLY )
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1347224&extension=ts&play_token=ds9NYduVKz
+#EXTINF:-1 tvg-id="beINSportsNews.qa" tvg-name="AR| BEIN SPORTS NEWS SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330455.png" group-title="1483" tvg-chno="4956",AR| BEIN SPORTS NEWS SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330455&extension=ts&play_token=z0S3YEqIh8
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS GLOBAL SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330456.png" group-title="1483" tvg-chno="4957",AR| BEIN SPORTS GLOBAL SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330456&extension=ts&play_token=8PokOvCMFe
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="AR| BEIN SPORTS 1 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330457.png" group-title="1483" tvg-chno="4958",AR| BEIN SPORTS 1 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330457&extension=ts&play_token=NxEp0DTaSF
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="AR| BEIN SPORTS 2 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330458.png" group-title="1483" tvg-chno="4959",AR| BEIN SPORTS 2 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330458&extension=ts&play_token=6GKjEs0WKY
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="AR| BEIN SPORTS 3 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330459.png" group-title="1483" tvg-chno="4960",AR| BEIN SPORTS 3 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330459&extension=ts&play_token=9e5QiqiOLu
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="AR| BEIN SPORTS 4 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330460.png" group-title="1483" tvg-chno="4961",AR| BEIN SPORTS 4 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330460&extension=ts&play_token=0AHfDqoxCj
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="AR| BEIN SPORTS 5 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330461.png" group-title="1483" tvg-chno="4962",AR| BEIN SPORTS 5 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330461&extension=ts&play_token=w6TTaOzjRu
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="AR| BEIN SPORTS 6 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330462.png" group-title="1483" tvg-chno="4963",AR| BEIN SPORTS 6 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330462&extension=ts&play_token=eaOGeQYFKQ
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="AR| BEIN SPORTS 7 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330463.png" group-title="1483" tvg-chno="4964",AR| BEIN SPORTS 7 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330463&extension=ts&play_token=e7aFVaOOkz
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS 8 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330464.png" group-title="1483" tvg-chno="4965",AR| BEIN SPORTS 8 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330464&extension=ts&play_token=xPWYpTBNY4
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS 9 SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330465.png" group-title="1483" tvg-chno="4966",AR| BEIN SPORTS 9 SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330465&extension=ts&play_token=QkEOGvj1cf
+#EXTINF:-1 tvg-id="BeinSportsExtra1.qa" tvg-name="AR| BEIN SPORTS 1 XTRA SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330466.png" group-title="1483" tvg-chno="4967",AR| BEIN SPORTS 1 XTRA SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330466&extension=ts&play_token=7vtwEVnwgI
+#EXTINF:-1 tvg-id="BeinSportsExtra2.qa" tvg-name="AR| BEIN SPORTS 2 XTRA SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330467.png" group-title="1483" tvg-chno="4968",AR| BEIN SPORTS 2 XTRA SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330467&extension=ts&play_token=lCm5lA641B
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS 3 XTRA SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330468.png" group-title="1483" tvg-chno="4969",AR| BEIN SPORTS 3 XTRA SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330468&extension=ts&play_token=2cgl2puYa6
+#EXTINF:-1 tvg-id="BeinSports1EnEn.qa" tvg-name="AR| BEIN SPORTS 1 ENGLISH SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330469.png" group-title="1483" tvg-chno="4970",AR| BEIN SPORTS 1 ENGLISH SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330469&extension=ts&play_token=wh5vIbzWdU
+#EXTINF:-1 tvg-id="BeinSports2EnEn.qa" tvg-name="AR| BEIN SPORTS 2 ENGLISH SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1330470.png" group-title="1483" tvg-chno="4971",AR| BEIN SPORTS 2 ENGLISH SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1330470&extension=ts&play_token=4WN5quCzq5
+#EXTINF:-1 tvg-name="BEIN SPORTS HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1836256.png" group-title="2305" tvg-chno="5018",BEIN SPORTS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836256&extension=ts&play_token=hiRfjplidb
+#EXTINF:-1 tvg-name="BEIN SPORTS NEWS HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1836255.png" group-title="2305" tvg-chno="5019",BEIN SPORTS NEWS HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836255&extension=ts&play_token=JoduKQfbbc
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660414.png" group-title="2302" tvg-chno="5020",BEIN SPORTS 1 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660414&extension=ts&play_token=B9IbK21TWy
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660412.png" group-title="2302" tvg-chno="5021",BEIN SPORTS 2 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660412&extension=ts&play_token=1YprgAvtcf
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660410.png" group-title="2302" tvg-chno="5022",BEIN SPORTS 3 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660410&extension=ts&play_token=K8frE5FL1U
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660408.png" group-title="2302" tvg-chno="5023",BEIN SPORTS 4 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660408&extension=ts&play_token=YYRQxgBeS5
+#EXTINF:-1 tvg-name="BEIN SPORTS 5 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660406.png" group-title="2302" tvg-chno="5024",BEIN SPORTS 5 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660406&extension=ts&play_token=eGhUzXCi8e
+#EXTINF:-1 tvg-name="BEIN SPORTS 6 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660404.png" group-title="2302" tvg-chno="5025",BEIN SPORTS 6 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660404&extension=ts&play_token=4KeXOZx2EZ
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660402.png" group-title="2302" tvg-chno="5026",BEIN SPORTS 7 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660402&extension=ts&play_token=BkBI4gIssb
+#EXTINF:-1 tvg-name="BEIN SPORTS 8 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660400.png" group-title="2302" tvg-chno="5027",BEIN SPORTS 8 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660400&extension=ts&play_token=YVrJcRGzt2
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660398.png" group-title="2302" tvg-chno="5028",BEIN SPORTS 9 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660398&extension=ts&play_token=4d3oxKNktd
+#EXTINF:-1 tvg-name="NBA HD" tvg-logo="http://51.158.145.100/picons/logos/bein/1836257.png" group-title="2305" tvg-chno="5029",NBA HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836257&extension=ts&play_token=wrXGfSBGKE
+#EXTINF:-1 tvg-name="BEIN SPORTS ENGLISH 1 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660396.png" group-title="2302" tvg-chno="5030",BEIN SPORTS ENGLISH 1 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660396&extension=ts&play_token=2zxzdqIIRH
+#EXTINF:-1 tvg-name="BEIN SPORTS ENGLISH 2 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660394.png" group-title="2302" tvg-chno="5031",BEIN SPORTS ENGLISH 2 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660394&extension=ts&play_token=J3l32L63Mh
+#EXTINF:-1 tvg-name="BEIN SPORTS  AFC 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660386.png" group-title="2302" tvg-chno="5032",BEIN SPORTS  AFC 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660386&extension=ts&play_token=SxXRAYngNO
+#EXTINF:-1 tvg-name="BEIN SPORTS AFC 1 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660383.png" group-title="2302" tvg-chno="5033",BEIN SPORTS AFC 1 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660383&extension=ts&play_token=rwPNP1boFt
+#EXTINF:-1 tvg-name="BEIN SPORTS AFC 2 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660381.png" group-title="2302" tvg-chno="5034",BEIN SPORTS AFC 2 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660381&extension=ts&play_token=wcr9mnmgeF
+#EXTINF:-1 tvg-name="BEIN SPORTS AFC 3 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660379.png" group-title="2302" tvg-chno="5035",BEIN SPORTS AFC 3 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660379&extension=ts&play_token=s4rCchZWGf
+#EXTINF:-1 tvg-name="BEIN SPORTS SD" tvg-logo="http://51.158.145.100/picons/logos/bein/1836244.png" group-title="2305" tvg-chno="5066",BEIN SPORTS SD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836244&extension=ts&play_token=QpGpZr4ll9
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660413.png" group-title="2303" tvg-chno="5067",BEIN SPORTS 1 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660413&extension=ts&play_token=fAuFtsyeaw
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660411.png" group-title="2303" tvg-chno="5068",BEIN SPORTS 2 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660411&extension=ts&play_token=2TsyolGFTX
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660409.png" group-title="2303" tvg-chno="5069",BEIN SPORTS 3 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660409&extension=ts&play_token=WEdiMf88Wz
+#EXTINF:-1 tvg-name="BEIN SPORTS 4 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660407.png" group-title="2303" tvg-chno="5070",BEIN SPORTS 4 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660407&extension=ts&play_token=VBolsyoCK6
+#EXTINF:-1 tvg-name="BEIN SPORTS 5 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660405.png" group-title="2303" tvg-chno="5071",BEIN SPORTS 5 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660405&extension=ts&play_token=A5fp39kVUa
+#EXTINF:-1 tvg-name="BEIN SPORTS 6 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660403.png" group-title="2303" tvg-chno="5072",BEIN SPORTS 6 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660403&extension=ts&play_token=OGHEIUCCKN
+#EXTINF:-1 tvg-name="BEIN SPORTS 7 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660401.png" group-title="2303" tvg-chno="5073",BEIN SPORTS 7 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660401&extension=ts&play_token=GKd9at9Nn0
+#EXTINF:-1 tvg-name="BEIN SPORTS 8 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660399.png" group-title="2303" tvg-chno="5074",BEIN SPORTS 8 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660399&extension=ts&play_token=Y8wnCNa8Ul
+#EXTINF:-1 tvg-name="BEIN SPORTS 9 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660397.png" group-title="2303" tvg-chno="5075",BEIN SPORTS 9 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660397&extension=ts&play_token=bEYZ2nf46G
+#EXTINF:-1 tvg-name="BEIN SPORTS ENGLISH 1 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660395.png" group-title="2303" tvg-chno="5076",BEIN SPORTS ENGLISH 1 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660395&extension=ts&play_token=56NCNonDjX
+#EXTINF:-1 tvg-name="BEIN SPORTS ENGLISH 2 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660393.png" group-title="2303" tvg-chno="5077",BEIN SPORTS ENGLISH 2 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660393&extension=ts&play_token=gCJFaS4P2n
+#EXTINF:-1 tvg-name="BEIN SPORTS  AFC 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1660385.png" group-title="2303" tvg-chno="5078",BEIN SPORTS  AFC 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660385&extension=ts&play_token=v1sTgRKRN3
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 1" tvg-logo="http://51.158.145.100/picons/logos/bein/1836254.png" group-title="2305" tvg-chno="5079",BEIN SPORTS LOW 1
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836254&extension=ts&play_token=DK0AjWG34T
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 2" tvg-logo="http://51.158.145.100/picons/logos/bein/1836253.png" group-title="2305" tvg-chno="5080",BEIN SPORTS LOW 2
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836253&extension=ts&play_token=cQPCg3Tc8s
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 3" tvg-logo="http://51.158.145.100/picons/logos/bein/1836252.png" group-title="2305" tvg-chno="5081",BEIN SPORTS LOW 3
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836252&extension=ts&play_token=mMLhZkgyAd
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 4" tvg-logo="http://51.158.145.100/picons/logos/bein/1836251.png" group-title="2305" tvg-chno="5082",BEIN SPORTS LOW 4
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836251&extension=ts&play_token=oZz19ewQqg
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 5" tvg-logo="http://51.158.145.100/picons/logos/bein/1836250.png" group-title="2305" tvg-chno="5083",BEIN SPORTS LOW 5
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836250&extension=ts&play_token=rE1nmxGj0i
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 6" tvg-logo="http://51.158.145.100/picons/logos/bein/1836249.png" group-title="2305" tvg-chno="5084",BEIN SPORTS LOW 6
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836249&extension=ts&play_token=vgZ4zyxcuE
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 8" tvg-logo="http://51.158.145.100/picons/logos/bein/1836248.png" group-title="2305" tvg-chno="5085",BEIN SPORTS LOW 8
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836248&extension=ts&play_token=Jgz96vPuQN
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 9" tvg-logo="http://51.158.145.100/picons/logos/bein/1836247.png" group-title="2305" tvg-chno="5086",BEIN SPORTS LOW 9
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836247&extension=ts&play_token=nXUjBV8EVz
+#EXTINF:-1 tvg-name="BEIN SPORTS LOW 7" tvg-logo="http://51.158.145.100/picons/logos/bein/1836246.png" group-title="2305" tvg-chno="5087",BEIN SPORTS LOW 7
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836246&extension=ts&play_token=CFGNxb60hy
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS XTRA 1 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660391.png" group-title="2377" tvg-chno="5089",AR| BEIN SPORTS XTRA 1 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660391&extension=ts&play_token=veITdRXVWj
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS XTRA 1 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1836243.png" group-title="2377" tvg-chno="5090",AR| BEIN SPORTS XTRA 1 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836243&extension=ts&play_token=XoO5nLrSpA
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS XTRA 2 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660387.png" group-title="2377" tvg-chno="5091",AR| BEIN SPORTS XTRA 2 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660387&extension=ts&play_token=Iz0MlEog2Q
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS XTRA 2 480" tvg-logo="http://51.158.145.100/picons/logos/bein/1836242.png" group-title="2377" tvg-chno="5093",AR| BEIN SPORTS XTRA 2 480
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1836242&extension=ts&play_token=fKOR9Tt7sS
+#EXTINF:-1 tvg-name="AR| BEIN SPORTS XTRA 3 720" tvg-logo="http://51.158.145.100/picons/logos/bein/1660388.png" group-title="2377" tvg-chno="5094",AR| BEIN SPORTS XTRA 3 720
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1660388&extension=ts&play_token=j1dWnHZCeq
+#EXTINF:-1 tvg-name="##### SPORT #####" group-title="1046" tvg-chno="5140",##### SPORT #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=591605&extension=ts&play_token=DG02bsAutN
+#EXTINF:-1 tvg-name="AR| AL KASS 1 HD" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS1.png" group-title="1046" tvg-chno="5141",AR| AL KASS 1 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=591593&extension=ts&play_token=VIsbz6PagG
+#EXTINF:-1 tvg-name="AR| AL KASS 1 HEVC" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS1.png" group-title="1046" tvg-chno="5142",AR| AL KASS 1 HEVC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=591592&extension=ts&play_token=BVw3MbIlCh
+#EXTINF:-1 tvg-name="AR| AL KASS 2 HD" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS2.png" group-title="1046" tvg-chno="5143",AR| AL KASS 2 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=591591&extension=ts&play_token=fPr7o5nK8c
+#EXTINF:-1 tvg-name="AR| AL KASS 2 HEVC" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS2.png" group-title="1046" tvg-chno="5144",AR| AL KASS 2 HEVC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=591590&extension=ts&play_token=Pq58dkL7DU
+#EXTINF:-1 tvg-name="AR| AL KASS 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS3.png" group-title="1046" tvg-chno="5145",AR| AL KASS 3 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=787905&extension=ts&play_token=9uSSC1L2Vl
+#EXTINF:-1 tvg-name="AR| AL KASS 3 HD" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS3.png" group-title="1046" tvg-chno="5146",AR| AL KASS 3 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=787903&extension=ts&play_token=ueBXZ6x1n6
+#EXTINF:-1 tvg-name="AR| AL KASS 4 HEVC" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS4.png" group-title="1046" tvg-chno="5147",AR| AL KASS 4 HEVC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=591588&extension=ts&play_token=21sN17UrsO
+#EXTINF:-1 tvg-name="AR| AL KASS 4 HD" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS4.png" group-title="1046" tvg-chno="5148",AR| AL KASS 4 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=591589&extension=ts&play_token=avcd0HOohY
+#EXTINF:-1 tvg-name="AR| AL KASS 5 HD" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS5.png" group-title="1046" tvg-chno="5149",AR| AL KASS 5 HD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=591587&extension=ts&play_token=pkueESZ381
+#EXTINF:-1 tvg-name="AR| AL KASS 6 FHD" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS6.png" group-title="1046" tvg-chno="5150",AR| AL KASS 6 FHD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=787906&extension=ts&play_token=Iq1Q4LLzIP
+#EXTINF:-1 tvg-name="AR| AL KASS 9 HD (LIVE EVENT ONLY)" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS9.png" group-title="1046" tvg-chno="5151",AR| AL KASS 9 HD (LIVE EVENT ONLY)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1186269&extension=ts&play_token=xlkQik0TLq
+#EXTINF:-1 tvg-name="AR| AL KASS 7 HD (LIVE EVENT ONLY)" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS7.png" group-title="1046" tvg-chno="5152",AR| AL KASS 7 HD (LIVE EVENT ONLY)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1797088&extension=ts&play_token=qHn579rbOw
+#EXTINF:-1 tvg-name="AR| AL KASS 8 HD (LIVE EVENT ONLY)" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ALKASS8.png" group-title="1046" tvg-chno="5153",AR| AL KASS 8 HD (LIVE EVENT ONLY)
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1797087&extension=ts&play_token=UAZ8Z2qXcX
+#EXTINF:-1 tvg-name="##### HBO #####" group-title="1436" tvg-chno="6581",##### HBO #####
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275555&extension=ts&play_token=ZaocERa4kr
+#EXTINF:-1 tvg-name="AR| HBO TOP TEN" tvg-logo="http://picons.cmshulk.com/picons/1275554.png" group-title="1436" tvg-chno="6582",AR| HBO TOP TEN
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275554&extension=ts&play_token=NCliqYsdAz
+#EXTINF:-1 tvg-name="AR| HBO NOW MOVIES" tvg-logo="http://103.176.90.118/picons/logos/HBO-MAX.png" group-title="1436" tvg-chno="6583",AR| HBO NOW MOVIES
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275553&extension=ts&play_token=bReZBuEbtm
+#EXTINF:-1 tvg-name="AR| HBO HISTORY" tvg-logo="http://103.176.90.118/picons/logos/HBO-MAX.png" group-title="1436" tvg-chno="6584",AR| HBO HISTORY
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275551&extension=ts&play_token=h3dISo10jG
+#EXTINF:-1 tvg-name="AR| HBO CRIME" tvg-logo="http://picons.cmshulk.com/picons/1275550.png" group-title="1436" tvg-chno="6585",AR| HBO CRIME
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275550&extension=ts&play_token=pwxcM2X0sR
+#EXTINF:-1 tvg-name="AR| HBO MAX" tvg-logo="http://picons.cmshulk.com/picons/1275549.png" group-title="1436" tvg-chno="6586",AR| HBO MAX
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275549&extension=ts&play_token=nhRtiKangD
+#EXTINF:-1 tvg-name="AR| HBO ARABIC" tvg-logo="http://picons.cmshulk.com/picons/1275548.png" group-title="1436" tvg-chno="6587",AR| HBO ARABIC
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275548&extension=ts&play_token=8UVdJXKYqm
+#EXTINF:-1 tvg-name="AR| HBO ASIAN" tvg-logo="http://picons.cmshulk.com/picons/1275547.png" group-title="1436" tvg-chno="6588",AR| HBO ASIAN
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275547&extension=ts&play_token=1ExxdWXQuA
+#EXTINF:-1 tvg-name="AR| HBO BOLLYWOOD" tvg-logo="http://103.176.90.118/picons/logos/HBO-MAX.png" group-title="1436" tvg-chno="6589",AR| HBO BOLLYWOOD
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275546&extension=ts&play_token=kOPmzXklwM
+#EXTINF:-1 tvg-name="AR| HBO ANIMATION" tvg-logo="http://picons.cmshulk.com/picons/1275545.png" group-title="1436" tvg-chno="6590",AR| HBO ANIMATION
+http://iptvnow.nl:80/play/live.php?mac=00:1A:79:1D:2F:F3&stream=1275545&extension=ts&play_token=NgnuVS6zv0
