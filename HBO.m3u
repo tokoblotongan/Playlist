@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="|ID|  Celestial Movies" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/indonesia/flag-3d-round-250.png" group-title="|IN| ✪ INDONESIA" tvg-chno="19072",|ID|  Celestial Movies
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1165792.ts
+#EXTINF:-1 tvg-name="|MY| HBO HD" tvg-logo="https://country-tools.com/flags/cercle/153x153/my.png" group-title="|MA| ✪ MALAYSIA" tvg-chno="18804",|MY| HBO HD
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1163799.ts
+#EXTINF:-1 tvg-name="|MY| HBO HD" tvg-logo="https://country-tools.com/flags/cercle/153x153/my.png" group-title="|MA| ✪ MALAYSIA" tvg-chno="18805",|MY| HBO HD
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1163798.ts
+#EXTINF:-1 tvg-name="|MY| HBO HITS" tvg-logo="https://country-tools.com/flags/cercle/153x153/my.png" group-title="|MA| ✪ MALAYSIA" tvg-chno="18806",|MY| HBO HITS
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1163800.ts
+#EXTINF:-1 tvg-name="|MY| HBO HITS FHD" tvg-logo="https://country-tools.com/flags/cercle/153x153/my.png" group-title="|MA| ✪ MALAYSIA" tvg-chno="18807",|MY| HBO HITS FHD
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1163801.ts
+#EXTINF:-1 tvg-name="|MY| HBO HITS HD" tvg-logo="https://country-tools.com/flags/cercle/153x153/my.png" group-title="|MA| ✪ MALAYSIA" tvg-chno="18808",|MY| HBO HITS HD
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1163802.ts
+#EXTINF:-1 tvg-name="|MY| HBO FAMILY HD" tvg-logo="https://country-tools.com/flags/cercle/153x153/my.png" group-title="|MA| ✪ MALAYSIA" tvg-chno="18803",|MY| HBO FAMILY HD
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1163795.ts
+#EXTINF:-1 tvg-name="|MY| HBO FAMILY" tvg-logo="https://country-tools.com/flags/cercle/153x153/my.png" group-title="|MA| ✪ MALAYSIA" tvg-chno="18802",|MY| HBO FAMILY
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1163793.ts
+#EXTINF:-1 tvg-name="|MY| HBO" tvg-logo="https://country-tools.com/flags/cercle/153x153/my.png" group-title="|MA| ✪ MALAYSIA" tvg-chno="18801",|MY| HBO
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/1163791.ts
+#EXTINF:-1 tvg-id="tntsports3.uk" tvg-name="|UK| TNT SPORT  3" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| ✪ SPORTS" tvg-chno="8294",|UK| TNT SPORT  3
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/77415.ts
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="|UK| TNT SPORT  5" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| ✪ SPORTS" tvg-chno="8814",|UK| TNT SPORT  5
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/968928.ts
+#EXTINF:-1 tvg-id="tntsports4.uk" tvg-name="|UK| TNT SPORTS 4" tvg-logo="http://138.199.27.237:8080/UK/BTSPORT.png" group-title="|UK| ✪ SPORTS" tvg-chno="8296",|UK| TNT SPORTS 4
+http://eagle210-4k.org/live/m416dy814n/lfliebdrbq/10510.ts
